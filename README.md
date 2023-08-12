@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 12, 2023 19:29 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 13, 2023 01:19 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -38,17 +38,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Condensed Aether
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_12_08_2023-19_29_30.png" />
+    <img src="images/profile/genshin_profile_13_08_2023-01_19_34.png" />
   </div>
   <div align="center">
     <h2>
@@ -2267,11 +2267,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>791</td>
+        <td>793</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>752</td>
+        <td>753</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2675,7 +2675,7 @@
           />
           Primogems earned
         </td>
-        <td>2105 (rate -73)</td>
+        <td>2175 (rate -72)</td>
       </tr>
       <tr>
         <td>
@@ -2685,13 +2685,13 @@
           />
           Mora earned
         </td>
-        <td>2007734 (rate -67)</td>
+        <td>2103636 (rate -65)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 660 (32%)<br />Spiral Abyss: 600 (29%)<br />Events:
-          420 (20%)<br />Mail: 390 (18%)<br />Adventure: 35 (1%)<br />Quests: 0
+          Daily Activity: 720 (34%)<br />Spiral Abyss: 600 (28%)<br />Events:
+          420 (19%)<br />Mail: 390 (17%)<br />Adventure: 45 (2%)<br />Quests: 0
           (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
@@ -7994,11 +7994,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_12_08_2023-19_29_03.png" />
+  <img src="images/showcase/genshin_card_13_08_2023-01_19_09.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_12_08_2023-19_29_04.png" />
+  <img src="images/showcase/genshin_card_13_08_2023-01_19_10.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
