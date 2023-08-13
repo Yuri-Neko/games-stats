@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 13, 2023 19:29 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 14, 2023 01:19 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -38,17 +38,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>13</td>
+        <td>14</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Stellar Jade
+          Credit
         </td>
       </tr>
     </table>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_13_08_2023-19_29_22.png" />
+    <img src="images/profile/genshin_profile_14_08_2023-01_19_18.png" />
   </div>
   <div align="center">
     <h2>
@@ -2271,7 +2271,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>753</td>
+        <td>754</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2585,26 +2585,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+            ,
+            height="18"
+          />
+          Kamisato Ayaka (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
             ,
             height="18"
           />
-          Sangonomiya Kokomi (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-            ,
-            height="18"
-          />
-          Nahida (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-            ,
-            height="18"
-          />
-          Yae Miko (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-            ,
-            height="18"
-          />
-          Yelan (12)<br />
+          Sangonomiya Kokomi (12)<br />
         </td>
       </tr>
       <tr>
@@ -2675,7 +2675,7 @@
           />
           Primogems earned
         </td>
-        <td>2175 (rate -72)</td>
+        <td>2235 (rate -71)</td>
       </tr>
       <tr>
         <td>
@@ -2685,12 +2685,12 @@
           />
           Mora earned
         </td>
-        <td>2103636 (rate -65)</td>
+        <td>2197812 (rate -64)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 720 (34%)<br />Spiral Abyss: 600 (28%)<br />Events:
+          Daily Activity: 780 (35%)<br />Spiral Abyss: 600 (27%)<br />Events:
           420 (19%)<br />Mail: 390 (17%)<br />Adventure: 45 (2%)<br />Quests: 0
           (0%)<br />Other: 0 (0%)<br />
         </td>
@@ -7994,11 +7994,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_13_08_2023-19_28_52.png" />
+  <img src="images/showcase/genshin_card_14_08_2023-01_18_50.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_13_08_2023-19_28_53.png" />
+  <img src="images/showcase/genshin_card_14_08_2023-01_18_51.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
