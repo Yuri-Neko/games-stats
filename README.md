@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 15, 2023 19:31 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 16, 2023 01:20 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -38,17 +38,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Energy Drink (sugar-free)
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_15_08_2023-19_31_49.png" />
+    <img src="images/profile/genshin_profile_16_08_2023-01_20_33.png" />
   </div>
   <div align="center">
     <h2>
@@ -2585,11 +2585,6 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-            ,
-            height="18"
-          />
-          Kamisato Ayaka (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
@@ -2604,7 +2599,12 @@
             ,
             height="18"
           />
-          Nahida (12)<br />
+          Nahida (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+            ,
+            height="18"
+          />
+          Yae Miko (12)<br />
         </td>
       </tr>
       <tr>
@@ -2675,7 +2675,7 @@
           />
           Primogems earned
         </td>
-        <td>2235 (rate -71)</td>
+        <td>2295 (rate -71)</td>
       </tr>
       <tr>
         <td>
@@ -2685,13 +2685,13 @@
           />
           Mora earned
         </td>
-        <td>2197812 (rate -64)</td>
+        <td>2250758 (rate -63)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 780 (35%)<br />Spiral Abyss: 600 (27%)<br />Events:
-          420 (19%)<br />Mail: 390 (17%)<br />Adventure: 45 (2%)<br />Quests: 0
+          Daily Activity: 840 (37%)<br />Spiral Abyss: 600 (27%)<br />Events:
+          420 (19%)<br />Mail: 390 (16%)<br />Adventure: 45 (1%)<br />Quests: 0
           (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
@@ -3425,7 +3425,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -7994,11 +7994,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_15_08_2023-19_31_22.png" />
+  <img src="images/showcase/genshin_card_16_08_2023-01_20_06.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_15_08_2023-19_31_23.png" />
+  <img src="images/showcase/genshin_card_16_08_2023-01_20_07.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
