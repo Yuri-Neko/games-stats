@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 16, 2023 13:21 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 16, 2023 20:09 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2230,6 +2230,10 @@
     Genshin Impact Details
   </summary>
   <div align="center">
+    <h2>Profile</h2>
+    <img src="images/profile/genshin_profile_16_08_2023-20_08_59.png" />
+  </div>
+  <div align="center">
     <h2>
       <img src="images/icons/genshin_check_in.png" height="20" /> Daily Rewards
     </h2>
@@ -2263,19 +2267,19 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>793</td>
+        <td>804</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>755</td>
+        <td>756</td>
       </tr>
       <tr>
         <td>Characters</td>
-        <td>52</td>
+        <td>53</td>
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
-        <td>304</td>
+        <td>319</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -2294,20 +2298,24 @@
         <td>181</td>
       </tr>
       <tr>
+        <td>Hydroculi</td>
+        <td>3</td>
+      </tr>
+      <tr>
         <td>Common Chests Opened</td>
         <td>2333</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1421</td>
+        <td>1425</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>438</td>
+        <td>439</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
-        <td>171</td>
+        <td>172</td>
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
@@ -2315,7 +2323,7 @@
       </tr>
       <tr>
         <td>Domains Unlocked</td>
-        <td>51</td>
+        <td>52</td>
       </tr>
     </table>
   </div>
@@ -2330,6 +2338,7 @@
     </h2>
     <table>
       <tr>
+        <th>Fontaine</th>
         <th>Sumeru</th>
         <th>The Chasm: Underground Mines</th>
         <th>The Chasm</th>
@@ -2338,9 +2347,16 @@
         <th>Dragonspine</th>
         <th>Liyue</th>
         <th>Mondstadt</th>
-        <th>Fontaine</th>
       </tr>
       <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Fengdan.png"
+              width="180"
+            />
+          </p>
+        </td>
         <td>
           <p align="center">
             <img
@@ -2405,16 +2421,22 @@
             />
           </p>
         </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Fengdan.png"
-              width="180"
-            />
-          </p>
-        </td>
       </tr>
       <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Explored</td>
+              <td>
+                <img src="https://progress-bar.dev/2/" width="80" />
+              </td>
+            </tr>
+            <tr>
+              <td>Reputation</td>
+              <td>1</td>
+            </tr>
+          </table>
+        </td>
         <td>
           <table>
             <tr>
@@ -2527,20 +2549,6 @@
             </tr>
           </table>
         </td>
-        <td>
-          <table>
-            <tr>
-              <td>Explored</td>
-              <td>
-                <img src="https://progress-bar.dev/0/" width="80" />
-              </td>
-            </tr>
-            <tr>
-              <td>Reputation</td>
-              <td>0</td>
-            </tr>
-          </table>
-        </td>
       </tr>
     </table>
   </div>
@@ -2604,26 +2612,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
             ,
             height="18"
           />
-          Nahida (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+          Kamisato Ayaka (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
-          Yae Miko (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          Kaedehara Kazuha (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+          Raiden Shogun (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
             ,
             height="18"
           />
-          Shenhe (12)<br />
+          Sangonomiya Kokomi (12)<br />
         </td>
       </tr>
       <tr>
@@ -2694,7 +2702,7 @@
           />
           Primogems earned
         </td>
-        <td>3155 (rate -60)</td>
+        <td>3195 (rate -59)</td>
       </tr>
       <tr>
         <td>
@@ -2704,14 +2712,14 @@
           />
           Mora earned
         </td>
-        <td>2338538 (rate -62)</td>
+        <td>2402482 (rate -61)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1050 (34%)<br />Daily Activity: 900 (29%)<br />Spiral Abyss: 600
-          (19%)<br />Events: 420 (13%)<br />Adventure: 170 (5%)<br />Other: 15
-          (0%)<br />Quests: 0 (0%)<br />
+          Mail: 1050 (33%)<br />Daily Activity: 900 (29%)<br />Spiral Abyss: 600
+          (19%)<br />Events: 420 (14%)<br />Adventure: 180 (5%)<br />Quests: 30
+          (0%)<br />Other: 15 (0%)<br />
         </td>
       </tr>
     </table>
@@ -8097,3 +8105,16 @@
     </details>
   </div>
 </details>
+<h2 align="center">My Genshin Characters Showcase</h2>
+<details align="center">
+  <summary>Showcase 1</summary>
+  <img src="images/showcase/genshin_card_16_08_2023-20_08_29.png" />
+</details>
+<details align="center">
+  <summary>Showcase 2</summary>
+  <img src="images/showcase/genshin_card_16_08_2023-20_08_30.png" />
+</details>
+<h2 align="center">
+  You can also check my characters showcase/builds on
+  <a href="https://enka.network/u/joydazo">Enka.Network</a>
+</h2>
