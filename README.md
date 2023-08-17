@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 17, 2023 01:21 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 17, 2023 08:09 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_17_08_2023-01_20_54.png" />
+    <img src="images/profile/genshin_profile_17_08_2023-08_09_49.png" />
   </div>
   <div align="center">
     <h2>
@@ -4758,7 +4758,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>
@@ -5302,7 +5302,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>0</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_17_08_2023-01_20_26.png" />
+  <img src="images/showcase/genshin_card_17_08_2023-08_09_21.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_17_08_2023-01_20_27.png" />
+  <img src="images/showcase/genshin_card_17_08_2023-08_09_22.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
