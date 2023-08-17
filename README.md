@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 17, 2023 08:09 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 17, 2023 13:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -65,7 +65,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>107</td>
+        <td>108</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4001 (rate -50)</td>
+        <td>4061 (rate -49)</td>
       </tr>
       <tr>
         <td>
@@ -105,9 +105,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1275 (31%)<br />Daily Activity: 960 (23%)<br />Simulated
+          Event: 1275 (31%)<br />Daily Activity: 1020 (25%)<br />Simulated
           Universe: 630 (15%)<br />Forgotten Hall: 560 (13%)<br />Adventure
-          Rewards: 385 (9%)<br />Other: 1 (5%)<br />Mail: 190 (4%)<br />
+          Rewards: 385 (9%)<br />Mail: 190 (4%)<br />Other: 1 (3%)<br />
         </td>
       </tr>
     </table>
@@ -125,7 +125,7 @@
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Total Stars</td>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_17_08_2023-08_09_49.png" />
+    <img src="images/profile/genshin_profile_17_08_2023-13_21_34.png" />
   </div>
   <div align="center">
     <h2>
@@ -2267,11 +2267,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>809</td>
+        <td>812</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>756</td>
+        <td>757</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2279,7 +2279,7 @@
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
-        <td>327</td>
+        <td>344</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -2299,19 +2299,19 @@
       </tr>
       <tr>
         <td>Hydroculi</td>
-        <td>5</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2335</td>
+        <td>2337</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1428</td>
+        <td>1434</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>440</td>
+        <td>444</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
@@ -2319,11 +2319,11 @@
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>158</td>
+        <td>160</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
-        <td>53</td>
+        <td>54</td>
       </tr>
     </table>
   </div>
@@ -2428,7 +2428,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/4/" width="80" />
+                <img src="https://progress-bar.dev/8/" width="80" />
               </td>
             </tr>
             <tr>
@@ -2702,7 +2702,7 @@
           />
           Primogems earned
         </td>
-        <td>3762 (rate -52)</td>
+        <td>4054 (rate -48)</td>
       </tr>
       <tr>
         <td>
@@ -2712,13 +2712,13 @@
           />
           Mora earned
         </td>
-        <td>2975160 (rate -51)</td>
+        <td>3131637 (rate -49)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1050 (28%)<br />Daily Activity: 900 (24%)<br />Events: 755
-          (21%)<br />Spiral Abyss: 600 (16%)<br />Adventure: 329 (9%)<br />Quests:
+          Mail: 1070 (27%)<br />Daily Activity: 960 (24%)<br />Events: 880
+          (22%)<br />Spiral Abyss: 600 (15%)<br />Adventure: 416 (10%)<br />Quests:
           110 (2%)<br />Other: 18 (0%)<br />
         </td>
       </tr>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_17_08_2023-08_09_21.png" />
+  <img src="images/showcase/genshin_card_17_08_2023-13_21_03.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_17_08_2023-08_09_22.png" />
+  <img src="images/showcase/genshin_card_17_08_2023-13_21_04.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
