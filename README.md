@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 17, 2023 19:32 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 18, 2023 01:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -38,17 +38,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_17_08_2023-19_32_01.png" />
+    <img src="images/profile/genshin_profile_18_08_2023-01_21_19.png" />
   </div>
   <div align="center">
     <h2>
@@ -2267,7 +2267,7 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>812</td>
+        <td>813</td>
       </tr>
       <tr>
         <td>Days Active</td>
@@ -2303,15 +2303,15 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2337</td>
+        <td>2338</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1434</td>
+        <td>1435</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>444</td>
+        <td>445</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
@@ -2702,7 +2702,7 @@
           />
           Primogems earned
         </td>
-        <td>4179 (rate -47)</td>
+        <td>4202 (rate -47)</td>
       </tr>
       <tr>
         <td>
@@ -2712,14 +2712,14 @@
           />
           Mora earned
         </td>
-        <td>3181769 (rate -48)</td>
+        <td>3230216 (rate -47)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
           Mail: 1070 (26%)<br />Daily Activity: 960 (23%)<br />Events: 880
-          (22%)<br />Spiral Abyss: 600 (15%)<br />Adventure: 518 (12%)<br />Quests:
-          110 (2%)<br />Other: 41 (0%)<br />
+          (21%)<br />Spiral Abyss: 600 (15%)<br />Adventure: 540 (13%)<br />Quests:
+          110 (2%)<br />Other: 42 (0%)<br />
         </td>
       </tr>
     </table>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_17_08_2023-19_31_34.png" />
+  <img src="images/showcase/genshin_card_18_08_2023-01_20_43.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_17_08_2023-19_31_35.png" />
+  <img src="images/showcase/genshin_card_18_08_2023-01_20_44.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
