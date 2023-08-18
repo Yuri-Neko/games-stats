@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 18, 2023 13:21 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 18, 2023 19:32 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4061 (rate -49)</td>
+        <td>4121 (rate -48)</td>
       </tr>
       <tr>
         <td>
@@ -105,7 +105,7 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1275 (31%)<br />Daily Activity: 1020 (25%)<br />Simulated
+          Event: 1275 (30%)<br />Daily Activity: 1080 (26%)<br />Simulated
           Universe: 630 (15%)<br />Forgotten Hall: 560 (13%)<br />Adventure
           Rewards: 385 (9%)<br />Mail: 190 (4%)<br />Other: 1 (3%)<br />
         </td>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_18_08_2023-13_21_32.png" />
+    <img src="images/profile/genshin_profile_18_08_2023-19_31_52.png" />
   </div>
   <div align="center">
     <h2>
@@ -2240,17 +2240,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/08/02/01ba12730bd86c8858c1e2d86c7d150d_5226749879789315268.png"
+            src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
             height="20"
           />
-          Adventurer's Experience
+          Primogem
         </td>
       </tr>
     </table>
@@ -2267,11 +2267,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>813</td>
+        <td>815</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>757</td>
+        <td>758</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2279,7 +2279,7 @@
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
-        <td>344</td>
+        <td>346</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -2299,27 +2299,27 @@
       </tr>
       <tr>
         <td>Hydroculi</td>
-        <td>7</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2338</td>
+        <td>2341</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1435</td>
+        <td>1441</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>445</td>
+        <td>446</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
-        <td>172</td>
+        <td>173</td>
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>160</td>
+        <td>161</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
@@ -2428,7 +2428,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/8/" width="80" />
+                <img src="https://progress-bar.dev/9/" width="80" />
               </td>
             </tr>
             <tr>
@@ -2702,7 +2702,7 @@
           />
           Primogems earned
         </td>
-        <td>4202 (rate -47)</td>
+        <td>4479 (rate -43)</td>
       </tr>
       <tr>
         <td>
@@ -2712,14 +2712,14 @@
           />
           Mora earned
         </td>
-        <td>3230216 (rate -47)</td>
+        <td>3550706 (rate -42)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1070 (26%)<br />Daily Activity: 960 (23%)<br />Events: 880
-          (21%)<br />Spiral Abyss: 600 (15%)<br />Adventure: 540 (13%)<br />Quests:
-          110 (2%)<br />Other: 42 (0%)<br />
+          Mail: 1150 (26%)<br />Daily Activity: 1020 (23%)<br />Events: 880
+          (20%)<br />Adventure: 606 (14%)<br />Spiral Abyss: 600 (13%)<br />Quests:
+          180 (4%)<br />Other: 43 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6909,7 +6909,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_18_08_2023-13_21_04.png" />
+  <img src="images/showcase/genshin_card_18_08_2023-19_31_24.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_18_08_2023-13_21_05.png" />
+  <img src="images/showcase/genshin_card_18_08_2023-19_31_25.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
