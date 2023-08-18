@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 18, 2023 01:21 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 18, 2023 08:10 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_18_08_2023-01_21_19.png" />
+    <img src="images/profile/genshin_profile_18_08_2023-08_10_44.png" />
   </div>
   <div align="center">
     <h2>
@@ -2900,8 +2900,8 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />4 x Emblem of Severed Fate<br />1 x Thundering
-                  Fury<br />
+                  Artifacts<br />4 x Emblem of Severed Fate<br />1 x Wanderer's
+                  Troupe<br />
                 </td>
                 <td>
                   <img
@@ -2909,10 +2909,10 @@
                     height="18"
                   />
                   Magnificent Tsuba<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b46bb5c5399de10ccae1de9070007f14.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8dcb040da5b7e6fd66b672f36cf81d5c.png"
                     height="18"
                   />
-                  Sundered Feather<br /><img
+                  Bard's Arrow Feather<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4e0bbf925c4e36b5fbdf68a3490b71de.png"
                     height="18"
                   />
@@ -2921,10 +2921,10 @@
                     height="18"
                   />
                   Scarlet Vessel<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e93e7e399677e7452fbe9865c2353d62.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b1333f3aea6dac4db24f19a7bc25b67a.png"
                     height="18"
                   />
-                  Thunder Summoner's Crown<br />
+                  Ornate Kabuto<br />
                 </td>
               </tr>
               <tr>
@@ -5497,7 +5497,7 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />4 x Wanderer's Troupe<br />1 x Emblem of
+                  Artifacts<br />3 x Wanderer's Troupe<br />2 x Emblem of
                   Severed Fate<br />
                 </td>
                 <td>
@@ -5506,10 +5506,10 @@
                     height="18"
                   />
                   Troupe's Dawnlight<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8dcb040da5b7e6fd66b672f36cf81d5c.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b46bb5c5399de10ccae1de9070007f14.png"
                     height="18"
                   />
-                  Bard's Arrow Feather<br /><img
+                  Sundered Feather<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a2507f6f8e918e372ebd3b85466b7b0a.png"
                     height="18"
                   />
@@ -6862,6 +6862,93 @@
       </table>
     </details>
     <details>
+      <summary><b>Lynette</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Lynette</h3></th>
+          <th><h3 align="center">The Flute</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Linette_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/81374ac37506affb8d3eb83ba8816778.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>The Flute</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Aloy</b></summary>
       <br />
       <table>
@@ -8016,103 +8103,16 @@
         </tr>
       </table>
     </details>
-    <details>
-      <summary><b>Lynette</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Lynette</h3></th>
-          <th><h3 align="center">The Flute</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Linette_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/81374ac37506affb8d3eb83ba8816778.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>The Flute</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>5</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
   </div>
 </details>
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_18_08_2023-01_20_43.png" />
+  <img src="images/showcase/genshin_card_18_08_2023-08_10_15.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_18_08_2023-01_20_44.png" />
+  <img src="images/showcase/genshin_card_18_08_2023-08_10_16.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
