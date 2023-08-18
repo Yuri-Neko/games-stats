@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 18, 2023 19:32 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 19, 2023 01:20 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -38,17 +38,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_18_08_2023-19_31_52.png" />
+    <img src="images/profile/genshin_profile_19_08_2023-01_20_49.png" />
   </div>
   <div align="center">
     <h2>
@@ -2267,7 +2267,7 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>815</td>
+        <td>825</td>
       </tr>
       <tr>
         <td>Days Active</td>
@@ -2279,7 +2279,7 @@
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
-        <td>346</td>
+        <td>347</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -2299,27 +2299,27 @@
       </tr>
       <tr>
         <td>Hydroculi</td>
-        <td>10</td>
+        <td>47</td>
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2341</td>
+        <td>2349</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1441</td>
+        <td>1478</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>446</td>
+        <td>451</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
-        <td>173</td>
+        <td>178</td>
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>161</td>
+        <td>163</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
@@ -2428,7 +2428,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/9/" width="80" />
+                <img src="https://progress-bar.dev/16/" width="80" />
               </td>
             </tr>
             <tr>
@@ -2702,7 +2702,7 @@
           />
           Primogems earned
         </td>
-        <td>4479 (rate -43)</td>
+        <td>4541 (rate -42)</td>
       </tr>
       <tr>
         <td>
@@ -2712,14 +2712,14 @@
           />
           Mora earned
         </td>
-        <td>3550706 (rate -42)</td>
+        <td>3748986 (rate -39)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
           Mail: 1150 (26%)<br />Daily Activity: 1020 (23%)<br />Events: 880
-          (20%)<br />Adventure: 606 (14%)<br />Spiral Abyss: 600 (13%)<br />Quests:
-          180 (4%)<br />Other: 43 (0%)<br />
+          (20%)<br />Adventure: 606 (13%)<br />Spiral Abyss: 600 (13%)<br />Quests:
+          240 (5%)<br />Other: 45 (0%)<br />
         </td>
       </tr>
     </table>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_18_08_2023-19_31_24.png" />
+  <img src="images/showcase/genshin_card_19_08_2023-01_20_24.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_18_08_2023-19_31_25.png" />
+  <img src="images/showcase/genshin_card_19_08_2023-01_20_25.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
