@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 19, 2023 01:20 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 19, 2023 08:08 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_19_08_2023-01_20_49.png" />
+    <img src="images/profile/genshin_profile_19_08_2023-08_08_48.png" />
   </div>
   <div align="center">
     <h2>
@@ -2267,11 +2267,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>825</td>
+        <td>836</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>758</td>
+        <td>759</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2279,7 +2279,7 @@
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
-        <td>347</td>
+        <td>348</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -2299,27 +2299,27 @@
       </tr>
       <tr>
         <td>Hydroculi</td>
-        <td>47</td>
+        <td>85</td>
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2349</td>
+        <td>2376</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1478</td>
+        <td>1536</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>451</td>
+        <td>470</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
-        <td>178</td>
+        <td>185</td>
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>163</td>
+        <td>174</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
@@ -2428,12 +2428,12 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/16/" width="80" />
+                <img src="https://progress-bar.dev/33/" width="80" />
               </td>
             </tr>
             <tr>
               <td>Reputation</td>
-              <td>1</td>
+              <td>2</td>
             </tr>
           </table>
         </td>
@@ -2571,7 +2571,7 @@
       </tr>
       <tr>
         <td>Items</td>
-        <td>1288</td>
+        <td>1289</td>
       </tr>
       <tr>
         <td>Visitors</td>
@@ -2590,7 +2590,7 @@
     <table>
       <tr>
         <td>Season</td>
-        <td>75</td>
+        <td>76</td>
       </tr>
       <tr>
         <td>Total Battles</td>
@@ -2617,21 +2617,21 @@
             height="18"
           />
           Kamisato Ayaka (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
           Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
-          Sangonomiya Kokomi (12)<br />
+          Nahida (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            ,
+            height="18"
+          />
+          Yelan (12)<br />
         </td>
       </tr>
       <tr>
@@ -2642,7 +2642,7 @@
             ,
             height="18"
           />
-          Kamisato Ayaka (54)<br />
+          Kamisato Ayaka (60)<br />
         </td>
       </tr>
       <tr>
@@ -2653,29 +2653,29 @@
             ,
             height="18"
           />
-          Raiden Shogun (86926)<br />
+          Raiden Shogun (88794)<br />
         </td>
       </tr>
       <tr>
         <td>Most Damage Taken</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
             ,
             height="18"
           />
-          Kamisato Ayaka (66891)<br />
+          Yae Miko (8531)<br />
         </td>
       </tr>
       <tr>
         <td>Elemental Bursts Unleashed</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (17)<br />
+          Yelan (21)<br />
         </td>
       </tr>
       <tr>
@@ -2686,7 +2686,7 @@
             ,
             height="18"
           />
-          Yae Miko (82)<br />
+          Yae Miko (58)<br />
         </td>
       </tr>
     </table>
@@ -2702,7 +2702,7 @@
           />
           Primogems earned
         </td>
-        <td>4541 (rate -42)</td>
+        <td>7074 (rate -10)</td>
       </tr>
       <tr>
         <td>
@@ -2712,14 +2712,14 @@
           />
           Mora earned
         </td>
-        <td>3748986 (rate -39)</td>
+        <td>6781100 (rate 10)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1150 (26%)<br />Daily Activity: 1020 (23%)<br />Events: 880
-          (20%)<br />Adventure: 606 (13%)<br />Spiral Abyss: 600 (13%)<br />Quests:
-          240 (5%)<br />Other: 45 (0%)<br />
+          Adventure: 1996 (29%)<br />Spiral Abyss: 1200 (17%)<br />Mail: 1150
+          (17%)<br />Daily Activity: 1080 (15%)<br />Events: 880 (12%)<br />Quests:
+          720 (10%)<br />Other: 48 (0%)<br />
         </td>
       </tr>
     </table>
@@ -5302,7 +5302,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
               <tr>
                 <td>
@@ -7036,6 +7036,93 @@
       </table>
     </details>
     <details>
+      <summary><b>Dehya</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Dehya</h3></th>
+          <th><h3 align="center">Sacrificial Greatsword</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Dehya_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/0ce15fe98742c033b95b548e3a42ba36.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>22</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>8</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Sacrificial Greatsword</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Collei</b></summary>
       <br />
       <table>
@@ -7382,7 +7469,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -7470,93 +7557,6 @@
               <tr>
                 <td>Level</td>
                 <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>5</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Dehya</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Dehya</h3></th>
-          <th><h3 align="center">Sacrificial Greatsword</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Dehya_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/0ce15fe98742c033b95b548e3a42ba36.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>21</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>8</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Sacrificial Greatsword</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>50</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_19_08_2023-01_20_24.png" />
+  <img src="images/showcase/genshin_card_19_08_2023-08_08_17.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_19_08_2023-01_20_25.png" />
+  <img src="images/showcase/genshin_card_19_08_2023-08_08_18.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
