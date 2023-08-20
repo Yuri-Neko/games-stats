@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 20, 2023 08:14 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 20, 2023 13:20 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -22,7 +22,7 @@
       </tr>
       <tr>
         <td>Trailblaze Level</td>
-        <td>65</td>
+        <td>66</td>
       </tr>
       <tr>
         <td>Server</td>
@@ -65,7 +65,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>110</td>
+        <td>111</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4481 (rate -44)</td>
+        <td>4561 (rate -43)</td>
       </tr>
       <tr>
         <td>
@@ -105,9 +105,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1275 (28%)<br />Daily Activity: 1140 (25%)<br />Simulated
-          Universe: 630 (14%)<br />Forgotten Hall: 560 (12%)<br />Mail: 490
-          (10%)<br />Adventure Rewards: 385 (8%)<br />Other: 1 (3%)<br />
+          Event: 1275 (27%)<br />Daily Activity: 1200 (26%)<br />Simulated
+          Universe: 630 (13%)<br />Forgotten Hall: 560 (12%)<br />Mail: 510
+          (11%)<br />Adventure Rewards: 385 (8%)<br />Other: 1 (3%)<br />
         </td>
       </tr>
     </table>
@@ -480,7 +480,7 @@
       <table>
         <tr>
           <th><h3>Himeko</h3></th>
-          <th><h3>The Seriousness of Breakfast</h3></th>
+          <th><h3>Make the World Clamor</h3></th>
         </tr>
         <tr>
           <td>
@@ -493,7 +493,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/6bb2d757ef0e0e164f44123df30a79b3.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/548a4559eb78ac4c211b184cc75852aa.png"
               />
             </p>
           </td>
@@ -570,7 +570,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>The Seriousness of Breakfast</td>
+                <td>Make the World Clamor</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -702,7 +702,7 @@
       <table>
         <tr>
           <th><h3>Jing Yuan</h3></th>
-          <th><h3>Make the World Clamor</h3></th>
+          <th><h3>The Seriousness of Breakfast</h3></th>
         </tr>
         <tr>
           <td>
@@ -715,7 +715,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/548a4559eb78ac4c211b184cc75852aa.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/6bb2d757ef0e0e164f44123df30a79b3.png"
               />
             </p>
           </td>
@@ -792,7 +792,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Make the World Clamor</td>
+                <td>The Seriousness of Breakfast</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_20_08_2023-08_14_03.png" />
+    <img src="images/profile/genshin_profile_20_08_2023-13_20_14.png" />
   </div>
   <div align="center">
     <h2>
@@ -2612,26 +2612,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Kamisato Ayaka (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-            ,
-            height="18"
-          />
-          Sangonomiya Kokomi (12)<br /><img
+          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
           Nahida (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
             ,
             height="18"
           />
-          Yelan (12)<br />
+          Shenhe (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (12)<br />
         </td>
       </tr>
       <tr>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_20_08_2023-08_13_34.png" />
+  <img src="images/showcase/genshin_card_20_08_2023-13_19_48.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_20_08_2023-08_13_35.png" />
+  <img src="images/showcase/genshin_card_20_08_2023-13_19_49.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
