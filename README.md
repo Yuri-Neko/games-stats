@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 20, 2023 01:19 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 20, 2023 08:14 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_20_08_2023-01_19_24.png" />
+    <img src="images/profile/genshin_profile_20_08_2023-08_14_03.png" />
   </div>
   <div align="center">
     <h2>
@@ -2612,26 +2612,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
             ,
             height="18"
           />
-          Raiden Shogun (12)<br /><img
+          Kamisato Ayaka (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
             ,
             height="18"
           />
           Sangonomiya Kokomi (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          Nahida (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-            ,
-            height="18"
-          />
-          Kamisato Ayaka (12)<br />
+          Yelan (12)<br />
         </td>
       </tr>
       <tr>
@@ -2702,7 +2702,7 @@
           />
           Primogems earned
         </td>
-        <td>7619 (rate -4)</td>
+        <td>7885 (rate 0)</td>
       </tr>
       <tr>
         <td>
@@ -2712,14 +2712,14 @@
           />
           Mora earned
         </td>
-        <td>7504825 (rate 21)</td>
+        <td>7819167 (rate 26)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 2470 (33%)<br />Spiral Abyss: 1200 (16%)<br />Mail: 1150
-          (16%)<br />Daily Activity: 1080 (14%)<br />Events: 880 (11%)<br />Quests:
-          790 (10%)<br />Other: 49 (0%)<br />
+          Adventure: 2626 (34%)<br />Spiral Abyss: 1200 (16%)<br />Mail: 1150
+          (15%)<br />Daily Activity: 1080 (13%)<br />Quests: 900 (11%)<br />Events:
+          880 (11%)<br />Other: 49 (0%)<br />
         </td>
       </tr>
     </table>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_20_08_2023-01_18_55.png" />
+  <img src="images/showcase/genshin_card_20_08_2023-08_13_34.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_20_08_2023-01_18_56.png" />
+  <img src="images/showcase/genshin_card_20_08_2023-08_13_35.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
