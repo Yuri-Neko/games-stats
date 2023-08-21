@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 21, 2023 01:19 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 21, 2023 08:11 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -109,27 +109,6 @@
           Universe: 630 (13%)<br />Forgotten Hall: 560 (12%)<br />Mail: 510
           (11%)<br />Adventure Rewards: 385 (8%)<br />Other: 1 (3%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>114</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>Raintear Strife Stage 5</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>11</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>15</td>
       </tr>
     </table>
   </div>
@@ -2231,7 +2210,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_21_08_2023-01_19_07.png" />
+    <img src="images/profile/genshin_profile_21_08_2023-08_11_22.png" />
   </div>
   <div align="center">
     <h2>
@@ -2612,11 +2591,16 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
             ,
             height="18"
           />
-          Nahida (12)<br /><img
+          Shenhe (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
@@ -2626,12 +2610,7 @@
             ,
             height="18"
           />
-          Kamisato Ayaka (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-            ,
-            height="18"
-          />
-          Sangonomiya Kokomi (12)<br />
+          Kamisato Ayaka (12)<br />
         </td>
       </tr>
       <tr>
@@ -8108,11 +8087,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_21_08_2023-01_18_37.png" />
+  <img src="images/showcase/genshin_card_21_08_2023-08_10_52.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_21_08_2023-01_18_38.png" />
+  <img src="images/showcase/genshin_card_21_08_2023-08_10_53.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
