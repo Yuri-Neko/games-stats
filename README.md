@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 21, 2023 08:11 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 21, 2023 13:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -65,7 +65,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>111</td>
+        <td>112</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4561 (rate -43)</td>
+        <td>5166 (rate -35)</td>
       </tr>
       <tr>
         <td>
@@ -100,15 +100,36 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>22 (rate -38)</td>
+        <td>23 (rate -36)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1275 (27%)<br />Daily Activity: 1200 (26%)<br />Simulated
-          Universe: 630 (13%)<br />Forgotten Hall: 560 (12%)<br />Mail: 510
-          (11%)<br />Adventure Rewards: 385 (8%)<br />Other: 1 (3%)<br />
+          Daily Activity: 1260 (24%)<br />Event: 1275 (24%)<br />Simulated
+          Universe: 935 (18%)<br />Forgotten Hall: 800 (15%)<br />Mail: 510
+          (9%)<br />Adventure Rewards: 385 (7%)<br />Other: 1 (3%)<br />
         </td>
+      </tr>
+    </table>
+  </div>
+  <div align="center">
+    <h2>Memory of Chaos</h2>
+    <table>
+      <tr>
+        <td>Season</td>
+        <td>115</td>
+      </tr>
+      <tr>
+        <td>Max Floor</td>
+        <td>Traces of Sanctus Medicus Stage 4</td>
+      </tr>
+      <tr>
+        <td>Total Battles</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>Total Stars</td>
+        <td>12</td>
       </tr>
     </table>
   </div>
@@ -2210,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_21_08_2023-08_11_22.png" />
+    <img src="images/profile/genshin_profile_21_08_2023-13_22_35.png" />
   </div>
   <div align="center">
     <h2>
@@ -2591,26 +2612,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
-            ,
-            height="18"
-          />
-          Shenhe (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-            ,
-            height="18"
-          />
-          Yelan (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
             ,
             height="18"
           />
-          Kamisato Ayaka (12)<br />
+          Kamisato Ayaka (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            ,
+            height="18"
+          />
+          Sangonomiya Kokomi (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          Nahida (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            ,
+            height="18"
+          />
+          Yelan (12)<br />
         </td>
       </tr>
       <tr>
@@ -8087,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_21_08_2023-08_10_52.png" />
+  <img src="images/showcase/genshin_card_21_08_2023-13_22_05.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_21_08_2023-08_10_53.png" />
+  <img src="images/showcase/genshin_card_21_08_2023-13_22_06.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
