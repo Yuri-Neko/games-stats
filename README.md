@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 21, 2023 13:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 21, 2023 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_21_08_2023-13_22_35.png" />
+    <img src="images/profile/genshin_profile_21_08_2023-19_33_12.png" />
   </div>
   <div align="center">
     <h2>
@@ -2240,17 +2240,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          10000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
+            src="https://upload-static.hoyoverse.com/event/2023/08/02/cb0d79765ac1b39571d2e8d09e24825c_80222486237809127.png"
             height="20"
           />
-          Primogem
+          Mora
         </td>
       </tr>
     </table>
@@ -2267,11 +2267,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>845</td>
+        <td>847</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>760</td>
+        <td>761</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2311,7 +2311,7 @@
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>487</td>
+        <td>488</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
@@ -2612,11 +2612,16 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
-          Kamisato Ayaka (12)<br /><img
+          Kaedehara Kazuha (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
             ,
             height="18"
@@ -2626,12 +2631,7 @@
             ,
             height="18"
           />
-          Nahida (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-            ,
-            height="18"
-          />
-          Yelan (12)<br />
+          Nahida (12)<br />
         </td>
       </tr>
       <tr>
@@ -2702,7 +2702,7 @@
           />
           Primogems earned
         </td>
-        <td>7991 (rate 0)</td>
+        <td>8091 (rate 1)</td>
       </tr>
       <tr>
         <td>
@@ -2712,14 +2712,14 @@
           />
           Mora earned
         </td>
-        <td>7985146 (rate 29)</td>
+        <td>8266118 (rate 34)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 2651 (34%)<br />Spiral Abyss: 1200 (16%)<br />Mail: 1150
-          (14%)<br />Daily Activity: 1140 (14%)<br />Quests: 920 (11%)<br />Events:
-          880 (11%)<br />Other: 50 (0%)<br />
+          Adventure: 2671 (34%)<br />Daily Activity: 1200 (15%)<br />Spiral
+          Abyss: 1200 (15%)<br />Mail: 1150 (15%)<br />Quests: 940 (11%)<br />Events:
+          880 (10%)<br />Other: 50 (0%)<br />
         </td>
       </tr>
     </table>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_21_08_2023-13_22_05.png" />
+  <img src="images/showcase/genshin_card_21_08_2023-19_32_43.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_21_08_2023-13_22_06.png" />
+  <img src="images/showcase/genshin_card_21_08_2023-19_32_44.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
