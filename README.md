@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 22, 2023 08:12 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 22, 2023 13:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -65,7 +65,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>112</td>
+        <td>113</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>5166 (rate -35)</td>
+        <td>5226 (rate -34)</td>
       </tr>
       <tr>
         <td>
@@ -105,8 +105,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1260 (24%)<br />Event: 1275 (24%)<br />Simulated
-          Universe: 935 (18%)<br />Forgotten Hall: 800 (15%)<br />Mail: 510
+          Daily Activity: 1320 (25%)<br />Event: 1275 (24%)<br />Simulated
+          Universe: 935 (17%)<br />Forgotten Hall: 800 (15%)<br />Mail: 510
           (9%)<br />Adventure Rewards: 385 (7%)<br />Other: 1 (3%)<br />
         </td>
       </tr>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_22_08_2023-08_11_59.png" />
+    <img src="images/profile/genshin_profile_22_08_2023-13_21_53.png" />
   </div>
   <div align="center">
     <h2>
@@ -2612,26 +2612,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
-          Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br /><img
+          Nahida (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
             ,
             height="18"
           />
           Sangonomiya Kokomi (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
             ,
             height="18"
           />
-          Nahida (12)<br />
+          Shenhe (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (12)<br />
         </td>
       </tr>
       <tr>
@@ -3452,7 +3452,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>6</td>
+                <td>7</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -6390,6 +6390,103 @@
       </table>
     </details>
     <details>
+      <summary><b>Layla</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Layla</h3></th>
+          <th><h3 align="center">Favonius Sword</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Layla_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/2acd3d227b4a02107f5a4c42e077269b.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br />2 x Tenacity of the Millelith<br /></td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/888a9e7a02a478608f51cbd963d48c10.png"
+                    height="18"
+                  />
+                  Flower of Accolades<br /><img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/92935bab7ff11f1de4a54e491fee895c.png"
+                    height="18"
+                  />
+                  Ceremonial War-Plume<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Favonius Sword</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Faruzan</b></summary>
       <br />
       <table>
@@ -7384,103 +7481,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Layla</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Layla</h3></th>
-          <th><h3 align="center">Favonius Sword</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Layla_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/2acd3d227b4a02107f5a4c42e077269b.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>21</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>10</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>2</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br />2 x Tenacity of the Millelith<br /></td>
-                <td>
-                  <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/888a9e7a02a478608f51cbd963d48c10.png"
-                    height="18"
-                  />
-                  Flower of Accolades<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/92935bab7ff11f1de4a54e491fee895c.png"
-                    height="18"
-                  />
-                  Ceremonial War-Plume<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Favonius Sword</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>80</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>5</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Yaoyao</b></summary>
       <br />
       <table>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_22_08_2023-08_11_32.png" />
+  <img src="images/showcase/genshin_card_22_08_2023-13_21_27.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_22_08_2023-08_11_33.png" />
+  <img src="images/showcase/genshin_card_22_08_2023-13_21_29.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
