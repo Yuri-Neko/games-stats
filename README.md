@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 23, 2023 13:21 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 23, 2023 19:32 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_23_08_2023-13_21_28.png" />
+    <img src="images/profile/genshin_profile_23_08_2023-19_32_53.png" />
   </div>
   <div align="center">
     <h2>
@@ -2267,11 +2267,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>854</td>
+        <td>855</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>762</td>
+        <td>763</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2303,11 +2303,11 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2393</td>
+        <td>2394</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1588</td>
+        <td>1589</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
@@ -2315,7 +2315,7 @@
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
-        <td>190</td>
+        <td>191</td>
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
@@ -2612,26 +2612,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            ,
+            height="18"
+          />
+          Sangonomiya Kokomi (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          Nahida (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            ,
+            height="18"
+          />
+          Yelan (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-            ,
-            height="18"
-          />
-          Kamisato Ayaka (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
-            ,
-            height="18"
-          />
-          Shenhe (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br />
+          Kaedehara Kazuha (12)<br />
         </td>
       </tr>
       <tr>
@@ -2702,7 +2702,7 @@
           />
           Primogems earned
         </td>
-        <td>8225 (rate 3)</td>
+        <td>8357 (rate 5)</td>
       </tr>
       <tr>
         <td>
@@ -2712,13 +2712,13 @@
           />
           Mora earned
         </td>
-        <td>8480862 (rate 37)</td>
+        <td>8637824 (rate 40)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 2745 (34%)<br />Daily Activity: 1260 (16%)<br />Spiral
-          Abyss: 1200 (15%)<br />Mail: 1150 (14%)<br />Quests: 940 (11%)<br />Events:
+          Adventure: 2797 (34%)<br />Daily Activity: 1320 (16%)<br />Spiral
+          Abyss: 1200 (15%)<br />Mail: 1150 (14%)<br />Quests: 960 (11%)<br />Events:
           880 (10%)<br />Other: 50 (0%)<br />
         </td>
       </tr>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_23_08_2023-13_21_05.png" />
+  <img src="images/showcase/genshin_card_23_08_2023-19_32_24.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_23_08_2023-13_21_06.png" />
+  <img src="images/showcase/genshin_card_23_08_2023-19_32_25.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
