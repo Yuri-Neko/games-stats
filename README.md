@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 23, 2023 08:11 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 23, 2023 13:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -65,7 +65,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>113</td>
+        <td>114</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>5226 (rate -34)</td>
+        <td>5346 (rate -33)</td>
       </tr>
       <tr>
         <td>
@@ -105,8 +105,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1320 (25%)<br />Event: 1275 (24%)<br />Simulated
-          Universe: 935 (17%)<br />Forgotten Hall: 800 (15%)<br />Mail: 510
+          Daily Activity: 1380 (25%)<br />Event: 1275 (23%)<br />Simulated
+          Universe: 935 (17%)<br />Forgotten Hall: 860 (16%)<br />Mail: 510
           (9%)<br />Adventure Rewards: 385 (7%)<br />Other: 1 (3%)<br />
         </td>
       </tr>
@@ -121,15 +121,15 @@
       </tr>
       <tr>
         <td>Max Floor</td>
-        <td>Traces of Sanctus Medicus Stage 4</td>
+        <td>Traces of Sanctus Medicus Stage 5</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>5</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Total Stars</td>
-        <td>12</td>
+        <td>15</td>
       </tr>
     </table>
   </div>
@@ -800,7 +800,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_23_08_2023-08_11_01.png" />
+    <img src="images/profile/genshin_profile_23_08_2023-13_21_28.png" />
   </div>
   <div align="center">
     <h2>
@@ -2612,11 +2612,6 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
-            ,
-            height="18"
-          />
-          Shenhe (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
@@ -2627,11 +2622,16 @@
             height="18"
           />
           Kamisato Ayaka (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
             ,
             height="18"
           />
-          Sangonomiya Kokomi (12)<br />
+          Shenhe (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br />
         </td>
       </tr>
       <tr>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_23_08_2023-08_10_39.png" />
+  <img src="images/showcase/genshin_card_23_08_2023-13_21_05.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_23_08_2023-08_10_40.png" />
+  <img src="images/showcase/genshin_card_23_08_2023-13_21_06.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
