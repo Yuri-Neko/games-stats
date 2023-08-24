@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 24, 2023 13:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 24, 2023 19:32 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_24_08_2023-13_22_07.png" />
+    <img src="images/profile/genshin_profile_24_08_2023-19_32_55.png" />
   </div>
   <div align="center">
     <h2>
@@ -2617,21 +2617,21 @@
             height="18"
           />
           Kaedehara Kazuha (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
-          Yelan (12)<br /><img
+          Nahida (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
             ,
             height="18"
           />
           Kamisato Ayaka (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Nahida (12)<br />
+          Yelan (12)<br />
         </td>
       </tr>
       <tr>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_24_08_2023-13_21_41.png" />
+  <img src="images/showcase/genshin_card_24_08_2023-19_32_31.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_24_08_2023-13_21_42.png" />
+  <img src="images/showcase/genshin_card_24_08_2023-19_32_32.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
