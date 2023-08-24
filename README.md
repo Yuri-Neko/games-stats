@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 24, 2023 19:32 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 25, 2023 01:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -38,17 +38,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
             height="20"
           />
-          Credit
+          Disposable Kinetic Arm
         </td>
       </tr>
     </table>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_24_08_2023-19_32_55.png" />
+    <img src="images/profile/genshin_profile_25_08_2023-01_21_31.png" />
   </div>
   <div align="center">
     <h2>
@@ -2240,17 +2240,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          10000 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/08/02/cb0d79765ac1b39571d2e8d09e24825c_80222486237809127.png"
+            src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -2271,7 +2271,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>763</td>
+        <td>764</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2612,11 +2612,16 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (12)<br /><img
+          Shenhe (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            ,
+            height="18"
+          />
+          Yelan (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
@@ -2626,12 +2631,7 @@
             ,
             height="18"
           />
-          Kamisato Ayaka (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-            ,
-            height="18"
-          />
-          Yelan (12)<br />
+          Kamisato Ayaka (12)<br />
         </td>
       </tr>
       <tr>
@@ -2702,7 +2702,7 @@
           />
           Primogems earned
         </td>
-        <td>8357 (rate 5)</td>
+        <td>8837 (rate 11)</td>
       </tr>
       <tr>
         <td>
@@ -2712,14 +2712,14 @@
           />
           Mora earned
         </td>
-        <td>8637824 (rate 40)</td>
+        <td>9042000 (rate 46)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 2797 (34%)<br />Daily Activity: 1320 (16%)<br />Spiral
-          Abyss: 1200 (15%)<br />Mail: 1150 (14%)<br />Quests: 960 (11%)<br />Events:
-          880 (10%)<br />Other: 50 (0%)<br />
+          Adventure: 2797 (32%)<br />Daily Activity: 1380 (16%)<br />Spiral
+          Abyss: 1200 (14%)<br />Events: 1180 (14%)<br />Mail: 1170 (13%)<br />Quests:
+          960 (10%)<br />Other: 150 (1%)<br />
         </td>
       </tr>
     </table>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_24_08_2023-19_32_31.png" />
+  <img src="images/showcase/genshin_card_25_08_2023-01_21_03.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_24_08_2023-19_32_32.png" />
+  <img src="images/showcase/genshin_card_25_08_2023-01_21_05.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
