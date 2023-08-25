@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 25, 2023 08:12 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 25, 2023 13:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -65,7 +65,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>115</td>
+        <td>116</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>248</td>
+        <td>249</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>5406 (rate -32)</td>
+        <td>5471 (rate -31)</td>
       </tr>
       <tr>
         <td>
@@ -105,9 +105,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1440 (26%)<br />Event: 1275 (23%)<br />Simulated
+          Daily Activity: 1500 (27%)<br />Event: 1275 (23%)<br />Simulated
           Universe: 935 (17%)<br />Forgotten Hall: 860 (15%)<br />Mail: 510
-          (9%)<br />Adventure Rewards: 385 (7%)<br />Other: 1 (3%)<br />
+          (9%)<br />Adventure Rewards: 390 (7%)<br />Other: 1 (2%)<br />
         </td>
       </tr>
     </table>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_25_08_2023-08_12_47.png" />
+    <img src="images/profile/genshin_profile_25_08_2023-13_22_26.png" />
   </div>
   <div align="center">
     <h2>
@@ -2612,26 +2612,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+          Yelan (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
             ,
             height="18"
           />
-          Sangonomiya Kokomi (12)<br /><img
+          Shenhe (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
           Nahida (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Shenhe (12)<br />
+          Raiden Shogun (12)<br />
         </td>
       </tr>
       <tr>
@@ -8108,11 +8108,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_08_2023-08_12_17.png" />
+  <img src="images/showcase/genshin_card_25_08_2023-13_21_57.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_08_2023-08_12_18.png" />
+  <img src="images/showcase/genshin_card_25_08_2023-13_21_58.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
