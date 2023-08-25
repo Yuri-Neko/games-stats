@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 25, 2023 13:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 25, 2023 19:32 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_25_08_2023-13_22_26.png" />
+    <img src="images/profile/genshin_profile_25_08_2023-19_32_24.png" />
   </div>
   <div align="center">
     <h2>
@@ -2612,26 +2612,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+            ,
+            height="18"
+          />
+          Kamisato Ayaka (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            ,
+            height="18"
+          />
+          Sangonomiya Kokomi (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
-            ,
-            height="18"
-          />
-          Shenhe (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-            ,
-            height="18"
-          />
-          Nahida (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br />
+          Yelan (12)<br />
         </td>
       </tr>
       <tr>
@@ -2702,7 +2702,7 @@
           />
           Primogems earned
         </td>
-        <td>8837 (rate 11)</td>
+        <td>8897 (rate 12)</td>
       </tr>
       <tr>
         <td>
@@ -2712,13 +2712,13 @@
           />
           Mora earned
         </td>
-        <td>9042000 (rate 46)</td>
+        <td>9121134 (rate 48)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 2797 (32%)<br />Daily Activity: 1380 (16%)<br />Spiral
-          Abyss: 1200 (14%)<br />Events: 1180 (14%)<br />Mail: 1170 (13%)<br />Quests:
+          Adventure: 2797 (32%)<br />Daily Activity: 1440 (17%)<br />Spiral
+          Abyss: 1200 (14%)<br />Events: 1180 (13%)<br />Mail: 1170 (13%)<br />Quests:
           960 (10%)<br />Other: 150 (1%)<br />
         </td>
       </tr>
@@ -3794,10 +3794,7 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />4 x Viridescent Venerer<br />1 x Gilded
-                  Dreams<br />
-                </td>
+                <td>Artifacts<br />5 x Viridescent Venerer<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/5cc206e8c535aed97607db07ae75df93.png"
@@ -3808,10 +3805,10 @@
                     height="18"
                   />
                   Viridescent Arrow Feather<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4d6ee660b1e5dbed8094be5f68d35b02.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8454dbc5e49bc56879567eba7fce1b36.png"
                     height="18"
                   />
-                  The Sunken Years<br /><img
+                  Viridescent Venerer's Determination<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8afb003b814193e311fb6f6ba312f5f4.png"
                     height="18"
                   />
@@ -6082,8 +6079,8 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />4 x Viridescent Venerer<br />1 x Maiden
-                  Beloved<br />
+                  Artifacts<br />3 x Viridescent Venerer<br />1 x Gilded
+                  Dreams<br />1 x Maiden Beloved<br />
                 </td>
                 <td>
                   <img
@@ -6095,10 +6092,10 @@
                     height="18"
                   />
                   Viridescent Arrow Feather<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8454dbc5e49bc56879567eba7fce1b36.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4d6ee660b1e5dbed8094be5f68d35b02.png"
                     height="18"
                   />
-                  Viridescent Venerer's Determination<br /><img
+                  The Sunken Years<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f70b02550b9ec3618faf67d026a3d86d.png"
                     height="18"
                   />
@@ -6773,6 +6770,99 @@
       </table>
     </details>
     <details>
+      <summary><b>Kaeya</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Kaeya</h3></th>
+          <th><h3 align="center">Amenoma Kageuchi</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kaeya_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/aa559b299eed4796e4c4ad5e89ae258e.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>8</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br />1 x Gladiator's Finale<br /></td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ec5e3608654ab82f7fab2d2295914a23.png"
+                    height="18"
+                  />
+                  Gladiator's Nostalgia<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td>Sailwind Shadow</td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Amenoma Kageuchi</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Lynette</b></summary>
       <br />
       <table>
@@ -6947,18 +7037,18 @@
       </table>
     </details>
     <details>
-      <summary><b>Kaeya</b></summary>
+      <summary><b>Yaoyao</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Kaeya</h3></th>
-          <th><h3 align="center">Amenoma Kageuchi</h3></th>
+          <th><h3 align="center">Yaoyao</h3></th>
+          <th><h3 align="center">Black Tassel</h3></th>
         </tr>
         <tr>
           <td>
             <p align="center">
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kaeya_Card.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yaoyao_Card.png"
                 heigt="250"
               />
             </p>
@@ -6966,7 +7056,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/aa559b299eed4796e4c4ad5e89ae258e.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8013d6fe509dc550dbef8e432de3738b.png"
                 height="250"
               />
             </p>
@@ -6983,7 +7073,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
                     height="18"
                   />
                 </td>
@@ -6994,25 +7084,19 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>8</td>
+                <td>10</td>
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>0</td>
+                <td>1</td>
               </tr>
               <tr>
-                <td>Artifacts<br />1 x Gladiator's Finale<br /></td>
-                <td>
-                  <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ec5e3608654ab82f7fab2d2295914a23.png"
-                    height="18"
-                  />
-                  Gladiator's Nostalgia<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
-                <td>Sailwind Shadow</td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -7020,19 +7104,19 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Amenoma Kageuchi</td>
+                <td>Black Tassel</td>
               </tr>
               <tr>
                 <td>Rarity</td>
-                <td>★★★★</td>
+                <td>★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>20</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>1</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -7474,93 +7558,6 @@
               <tr>
                 <td>Refinement</td>
                 <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Yaoyao</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Yaoyao</h3></th>
-          <th><h3 align="center">Black Tassel</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yaoyao_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8013d6fe509dc550dbef8e432de3738b.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>21</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>10</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Black Tassel</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>5</td>
               </tr>
             </table>
           </td>
@@ -8108,11 +8105,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_08_2023-13_21_57.png" />
+  <img src="images/showcase/genshin_card_25_08_2023-19_31_57.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_08_2023-13_21_58.png" />
+  <img src="images/showcase/genshin_card_25_08_2023-19_31_58.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
