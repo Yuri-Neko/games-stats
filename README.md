@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 25, 2023 19:32 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 26, 2023 01:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -38,17 +38,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
             height="20"
           />
-          Disposable Kinetic Arm
+          Refined Aether
         </td>
       </tr>
     </table>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_25_08_2023-19_32_24.png" />
+    <img src="images/profile/genshin_profile_26_08_2023-01_21_14.png" />
   </div>
   <div align="center">
     <h2>
@@ -2271,7 +2271,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>764</td>
+        <td>765</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2612,21 +2612,21 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
             ,
             height="18"
           />
           Kamisato Ayaka (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Sangonomiya Kokomi (12)<br /><img
+          Raiden Shogun (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          Nahida (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
@@ -2712,7 +2712,7 @@
           />
           Mora earned
         </td>
-        <td>9121134 (rate 48)</td>
+        <td>9217963 (rate 49)</td>
       </tr>
       <tr>
         <td>Categories</td>
@@ -8105,11 +8105,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_08_2023-19_31_57.png" />
+  <img src="images/showcase/genshin_card_26_08_2023-01_20_51.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_08_2023-19_31_58.png" />
+  <img src="images/showcase/genshin_card_26_08_2023-01_20_52.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
