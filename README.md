@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 26, 2023 19:29 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 27, 2023 01:19 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -38,17 +38,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
             height="20"
           />
-          Refined Aether
+          Lost Crystal
         </td>
       </tr>
     </table>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_26_08_2023-19_29_29.png" />
+    <img src="images/profile/genshin_profile_27_08_2023-01_19_42.png" />
   </div>
   <div align="center">
     <h2>
@@ -2271,7 +2271,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>765</td>
+        <td>766</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2612,21 +2612,21 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-            ,
-            height="18"
-          />
-          Sangonomiya Kokomi (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-            ,
-            height="18"
-          />
-          Nahida (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
           Yelan (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+            ,
+            height="18"
+          />
+          Shenhe (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            ,
+            height="18"
+          />
+          Sangonomiya Kokomi (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
@@ -2702,7 +2702,7 @@
           />
           Primogems earned
         </td>
-        <td>8897 (rate 12)</td>
+        <td>8997 (rate 13)</td>
       </tr>
       <tr>
         <td>
@@ -2712,13 +2712,13 @@
           />
           Mora earned
         </td>
-        <td>9217963 (rate 49)</td>
+        <td>9325104 (rate 51)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 2797 (32%)<br />Daily Activity: 1440 (17%)<br />Spiral
-          Abyss: 1200 (14%)<br />Events: 1180 (13%)<br />Mail: 1170 (13%)<br />Quests:
+          Adventure: 2797 (32%)<br />Daily Activity: 1500 (17%)<br />Events:
+          1220 (14%)<br />Spiral Abyss: 1200 (13%)<br />Mail: 1170 (13%)<br />Quests:
           960 (10%)<br />Other: 150 (1%)<br />
         </td>
       </tr>
@@ -8105,11 +8105,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_26_08_2023-19_29_05.png" />
+  <img src="images/showcase/genshin_card_27_08_2023-01_19_16.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_26_08_2023-19_29_06.png" />
+  <img src="images/showcase/genshin_card_27_08_2023-01_19_17.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
