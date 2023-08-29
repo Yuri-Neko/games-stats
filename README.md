@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 29, 2023 01:21 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 29, 2023 08:13 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_29_08_2023-01_21_54.png" />
+    <img src="images/profile/genshin_profile_29_08_2023-08_13_10.png" />
   </div>
   <div align="center">
     <h2>
@@ -2612,16 +2612,11 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Kamisato Ayaka (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-            ,
-            height="18"
-          />
-          Sangonomiya Kokomi (12)<br /><img
+          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
@@ -2631,7 +2626,12 @@
             ,
             height="18"
           />
-          Kaedehara Kazuha (12)<br />
+          Kaedehara Kazuha (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+            ,
+            height="18"
+          />
+          Kamisato Ayaka (12)<br />
         </td>
       </tr>
       <tr>
@@ -8105,11 +8105,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_29_08_2023-01_21_31.png" />
+  <img src="images/showcase/genshin_card_29_08_2023-08_12_40.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_29_08_2023-01_21_32.png" />
+  <img src="images/showcase/genshin_card_29_08_2023-08_12_41.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
