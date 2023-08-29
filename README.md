@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 29, 2023 13:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 29, 2023 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -65,7 +65,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>119</td>
+        <td>120</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>6041 (rate -24)</td>
+        <td>6101 (rate -23)</td>
       </tr>
       <tr>
         <td>
@@ -105,7 +105,7 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1680 (27%)<br />Adventure Rewards: 1635 (27%)<br />Simulated
+          Daily Activity: 1740 (28%)<br />Adventure Rewards: 1635 (26%)<br />Simulated
           Universe: 1300 (21%)<br />Forgotten Hall: 860 (14%)<br />Mail: 510
           (8%)<br />Other: 1 (3%)<br />Event: 55 (0%)<br />
         </td>
@@ -2230,10 +2230,6 @@
     Genshin Impact Details
   </summary>
   <div align="center">
-    <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_29_08_2023-13_22_33.png" />
-  </div>
-  <div align="center">
     <h2>
       <img src="images/icons/genshin_check_in.png" height="20" /> Daily Rewards
     </h2>
@@ -2271,7 +2267,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>768</td>
+        <td>769</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2433,7 +2429,7 @@
             </tr>
             <tr>
               <td>Reputation</td>
-              <td>3</td>
+              <td>4</td>
             </tr>
           </table>
         </td>
@@ -2612,26 +2608,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
-            ,
-            height="18"
-          />
-          Shenhe (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-            ,
-            height="18"
-          />
-          Nahida (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Yelan (12)<br />
+          Yelan (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+            ,
+            height="18"
+          />
+          Kamisato Ayaka (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            ,
+            height="18"
+          />
+          Sangonomiya Kokomi (12)<br />
         </td>
       </tr>
       <tr>
@@ -2702,7 +2698,7 @@
           />
           Primogems earned
         </td>
-        <td>9617 (rate 21)</td>
+        <td>9677 (rate 21)</td>
       </tr>
       <tr>
         <td>
@@ -2712,13 +2708,13 @@
           />
           Mora earned
         </td>
-        <td>9866728 (rate 60)</td>
+        <td>10103421 (rate 63)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 2797 (30%)<br />Events: 1780 (19%)<br />Daily Activity:
-          1560 (17%)<br />Spiral Abyss: 1200 (12%)<br />Mail: 1170 (12%)<br />Quests:
+          Adventure: 2797 (29%)<br />Events: 1780 (19%)<br />Daily Activity:
+          1620 (17%)<br />Spiral Abyss: 1200 (13%)<br />Mail: 1170 (12%)<br />Quests:
           960 (9%)<br />Other: 150 (1%)<br />
         </td>
       </tr>
@@ -8105,11 +8101,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_29_08_2023-13_22_07.png" />
+  <img src="images/showcase/genshin_card_29_08_2023-19_33_26.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_29_08_2023-13_22_08.png" />
+  <img src="images/showcase/genshin_card_29_08_2023-19_33_27.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
