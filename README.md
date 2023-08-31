@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 31, 2023 19:33 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 01, 2023 01:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -38,17 +38,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>31</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Credit
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -2236,7 +2236,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>0</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -2267,7 +2267,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>770</td>
+        <td>771</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2613,21 +2613,21 @@
             height="18"
           />
           Kamisato Ayaka (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
             ,
             height="18"
           />
           Sangonomiya Kokomi (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
-            ,
-            height="18"
-          />
-          Shenhe (12)<br />
+          Nahida (12)<br />
         </td>
       </tr>
       <tr>
@@ -2698,7 +2698,7 @@
           />
           Primogems earned
         </td>
-        <td>9787 (rate 23)</td>
+        <td>9847 (rate 24)</td>
       </tr>
       <tr>
         <td>
@@ -2708,13 +2708,13 @@
           />
           Mora earned
         </td>
-        <td>10200439 (rate 65)</td>
+        <td>10297166 (rate 67)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
           Adventure: 2797 (29%)<br />Events: 1780 (19%)<br />Daily Activity:
-          1680 (18%)<br />Mail: 1220 (12%)<br />Spiral Abyss: 1200 (12%)<br />Quests:
+          1740 (18%)<br />Mail: 1220 (12%)<br />Spiral Abyss: 1200 (12%)<br />Quests:
           960 (9%)<br />Other: 150 (1%)<br />
         </td>
       </tr>
@@ -8101,11 +8101,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_31_08_2023-19_33_17.png" />
+  <img src="images/showcase/genshin_card_01_09_2023-01_21_14.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_31_08_2023-19_33_18.png" />
+  <img src="images/showcase/genshin_card_01_09_2023-01_21_15.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
