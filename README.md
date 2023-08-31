@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 31, 2023 13:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 31, 2023 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2618,16 +2618,16 @@
             height="18"
           />
           Sangonomiya Kokomi (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-            ,
-            height="18"
-          />
-          Nahida (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (12)<br />
+          Kaedehara Kazuha (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+            ,
+            height="18"
+          />
+          Shenhe (12)<br />
         </td>
       </tr>
       <tr>
@@ -8101,11 +8101,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_31_08_2023-13_22_06.png" />
+  <img src="images/showcase/genshin_card_31_08_2023-19_33_17.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_31_08_2023-13_22_07.png" />
+  <img src="images/showcase/genshin_card_31_08_2023-19_33_18.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
