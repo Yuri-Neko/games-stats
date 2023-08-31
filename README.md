@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 31, 2023 01:21 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 31, 2023 08:12 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2618,16 +2618,16 @@
             height="18"
           />
           Sangonomiya Kokomi (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
             ,
             height="18"
           />
-          Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+          Kamisato Ayaka (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Shenhe (12)<br />
+          Raiden Shogun (12)<br />
         </td>
       </tr>
       <tr>
@@ -2698,7 +2698,7 @@
           />
           Primogems earned
         </td>
-        <td>9677 (rate 21)</td>
+        <td>9787 (rate 23)</td>
       </tr>
       <tr>
         <td>
@@ -2708,13 +2708,13 @@
           />
           Mora earned
         </td>
-        <td>10103421 (rate 63)</td>
+        <td>10200439 (rate 65)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
           Adventure: 2797 (29%)<br />Events: 1780 (19%)<br />Daily Activity:
-          1620 (17%)<br />Spiral Abyss: 1200 (13%)<br />Mail: 1170 (12%)<br />Quests:
+          1680 (18%)<br />Mail: 1220 (12%)<br />Spiral Abyss: 1200 (12%)<br />Quests:
           960 (9%)<br />Other: 150 (1%)<br />
         </td>
       </tr>
@@ -8101,11 +8101,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_31_08_2023-01_21_15.png" />
+  <img src="images/showcase/genshin_card_31_08_2023-08_12_30.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_31_08_2023-01_21_17.png" />
+  <img src="images/showcase/genshin_card_31_08_2023-08_12_31.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
