@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 01, 2023 13:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 01, 2023 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -73,7 +73,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>255</td>
+        <td>264</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>946 (rate -87)</td>
+        <td>1767 (rate -76)</td>
       </tr>
       <tr>
         <td>
@@ -100,14 +100,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>3 (rate -88)</td>
+        <td>13 (rate -48)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 840 (88%)<br />Daily Activity: 60 (6%)<br />Adventure Rewards:
-          45 (4%)<br />Other: 1 (2%)<br />Simulated Universe: 0 (0%)<br />Forgotten
-          Hall: 0 (0%)<br />Mail: 0 (0%)<br />
+          Event: 1530 (86%)<br />Adventure Rewards: 175 (9%)<br />Daily
+          Activity: 60 (3%)<br />Other: 2 (2%)<br />Simulated Universe: 0
+          (0%)<br />Forgotten Hall: 0 (0%)<br />Mail: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -1244,7 +1244,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -2230,6 +2230,10 @@
     Genshin Impact Details
   </summary>
   <div align="center">
+    <h2>Profile</h2>
+    <img src="images/profile/genshin_profile_01_09_2023_19_33_04.png" />
+  </div>
+  <div align="center">
     <h2>
       <img src="images/icons/genshin_check_in.png" height="20" /> Daily Rewards
     </h2>
@@ -2263,11 +2267,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>855</td>
+        <td>856</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>771</td>
+        <td>772</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2299,11 +2303,11 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2394</td>
+        <td>2399</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1589</td>
+        <td>1591</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
@@ -2586,7 +2590,7 @@
     <table>
       <tr>
         <td>Season</td>
-        <td>76</td>
+        <td>77</td>
       </tr>
       <tr>
         <td>Total Battles</td>
@@ -2608,70 +2612,70 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+          Nahida (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
             ,
             height="18"
           />
-          Sangonomiya Kokomi (12)<br /><img
+          Xingqiu (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+            ,
+            height="18"
+          />
+          Yae Miko (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
-            ,
-            height="18"
-          />
-          Shenhe (12)<br />
+          Yelan (12)<br />
         </td>
       </tr>
       <tr>
         <td>Most Defeats</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
             ,
             height="18"
           />
-          Kamisato Ayaka (60)<br />
+          Hu Tao (32)<br />
         </td>
       </tr>
       <tr>
         <td>Strongest Single Strike</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
             ,
             height="18"
           />
-          Raiden Shogun (88794)<br />
+          Hu Tao (192716)<br />
         </td>
       </tr>
       <tr>
         <td>Most Damage Taken</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Yae Miko (8531)<br />
+          Yelan (39283)<br />
         </td>
       </tr>
       <tr>
         <td>Elemental Bursts Unleashed</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
-          Yelan (21)<br />
+          Kaedehara Kazuha (23)<br />
         </td>
       </tr>
       <tr>
@@ -2682,7 +2686,7 @@
             ,
             height="18"
           />
-          Yae Miko (58)<br />
+          Yae Miko (66)<br />
         </td>
       </tr>
     </table>
@@ -2698,7 +2702,7 @@
           />
           Primogems earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>85 (rate -99)</td>
       </tr>
       <tr>
         <td>
@@ -2708,14 +2712,14 @@
           />
           Mora earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>288247 (rate -97)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
-          Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other:
-          0 (0%)<br />
+          Daily Activity: 60 (71%)<br />Adventure: 25 (29%)<br />Events: 0
+          (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0
+          (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -2749,7 +2753,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e58ab1104a54a97a64a290aeb4caca7d.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/019381e6dc7e5bc87c79a8be8bf96b55.png"
                 height="250"
               />
             </p>
@@ -2789,23 +2793,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/02b560b8ab37fa6ef92d8daa7e2f58b8.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/ef7480af80ed5a8955728ad1b1dbf87c.png"
                     height="18"
                   />
                   Lavawalker's Resolution<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8eddb241406a6e3520c38652ed1a3a40.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/dc99cbbe611e13f1fee3fc2c0f9235d4.png"
                     height="18"
                   />
                   Scholar of Vines<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a34ce2b87e0dd1a6d4b68e2003cf8e04.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5e4722c28a15925954287f5a3bfbab60.png"
                     height="18"
                   />
                   A Time of Insight<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/9f3d09aeacfa02bb52e7be7c7e211189.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/19f21bf54e1a2bad3cf25940a2b34d7f.png"
                     height="18"
                   />
                   Lamp of the Lost<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/075f527571d1c949870c07b3695da617.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/30f2db38375ec4ec320f939d73512de4.png"
                     height="18"
                   />
                   Laurel Coronet<br />
@@ -2860,7 +2864,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/3b8e9cfe6f81b068466dee0ab10794b1.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/8416fa56c3471469549881b756a142f6.png"
                 height="250"
               />
             </p>
@@ -2901,23 +2905,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7378ca4ce04975eed9c26c9e812a4f9c.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9258ea545a6fa4c4a9bf9d8f4744a19b.png"
                     height="18"
                   />
                   Magnificent Tsuba<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8dcb040da5b7e6fd66b672f36cf81d5c.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/45abe8db95d7ed8dc048afccd7348652.png"
                     height="18"
                   />
                   Bard's Arrow Feather<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4e0bbf925c4e36b5fbdf68a3490b71de.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/e5fd88d4834ccf8b1e2be27d89758792.png"
                     height="18"
                   />
                   Storm Cage<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f2578d6ab3e16b2b4c7b4a967777070b.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9c2a8602e1d71ad1ee76e01ddd947f1c.png"
                     height="18"
                   />
                   Scarlet Vessel<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b1333f3aea6dac4db24f19a7bc25b67a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/108b4c84b7b134ddbf1443ec9d64575a.png"
                     height="18"
                   />
                   Ornate Kabuto<br />
@@ -2972,7 +2976,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/27f9029dde610df401669a1a64b7741f.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/6d25816b11d2b708e69fd7acdd0c8abc.png"
                 height="250"
               />
             </p>
@@ -3013,23 +3017,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7378ca4ce04975eed9c26c9e812a4f9c.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9258ea545a6fa4c4a9bf9d8f4744a19b.png"
                     height="18"
                   />
                   Magnificent Tsuba<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b46bb5c5399de10ccae1de9070007f14.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5e8adae6710eaf250da989e35afd4644.png"
                     height="18"
                   />
                   Sundered Feather<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4e0bbf925c4e36b5fbdf68a3490b71de.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/e5fd88d4834ccf8b1e2be27d89758792.png"
                     height="18"
                   />
                   Storm Cage<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f6f31c9f96a5218c06bbe8a79ac2fc6c.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/015966170467332f4b3ed2fe7d9f133c.png"
                     height="18"
                   />
                   Summer Night's Waterballoon<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b1333f3aea6dac4db24f19a7bc25b67a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/108b4c84b7b134ddbf1443ec9d64575a.png"
                     height="18"
                   />
                   Ornate Kabuto<br />
@@ -3084,7 +3088,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/5f49917067f3f8a8d1b6f29a54dd1239.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/1954476809fd4d07aeef2b68d5bed17b.png"
                 height="250"
               />
             </p>
@@ -3125,23 +3129,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/bb3f9540ff05051d7f5cb2969ed715ac.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2a01c80f2c981a311ef06b724d37b866.png"
                     height="18"
                   />
                   Entangling Bloom<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/0f91a7eb81701305246ac94b533e6b0e.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/714c792f21e332c5b8b758a38bf8aac3.png"
                     height="18"
                   />
                   Shaft of Remembrance<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1ac635f6c8cec0ce7db52b504aeba702.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2ffcc94aa5746566fecf3b32fecb59a1.png"
                     height="18"
                   />
                   Gladiator's Longing<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b68680428d13d8b093ad75601d9903fc.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/608d98b1c3acdf785738bab27a91faed.png"
                     height="18"
                   />
                   Surpassing Cup<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f6ab9ef8479f2cb6a584d36728323004.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/00cbcd1bc070422b835c5355cb0085ec.png"
                     height="18"
                   />
                   Gladiator's Triumphus<br />
@@ -3196,7 +3200,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/16db03dab427d38b596338470bea8a55.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/68dd613f28fb20ab4b79bab57239aa32.png"
                 height="250"
               />
             </p>
@@ -3237,23 +3241,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/bb3f9540ff05051d7f5cb2969ed715ac.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2a01c80f2c981a311ef06b724d37b866.png"
                     height="18"
                   />
                   Entangling Bloom<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/0f91a7eb81701305246ac94b533e6b0e.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/714c792f21e332c5b8b758a38bf8aac3.png"
                     height="18"
                   />
                   Shaft of Remembrance<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1ac635f6c8cec0ce7db52b504aeba702.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2ffcc94aa5746566fecf3b32fecb59a1.png"
                     height="18"
                   />
                   Gladiator's Longing<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e9306060a0541a745080198abbfec23e.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/626a93f8b3b02adca7e68e0f466caa15.png"
                     height="18"
                   />
                   Gladiator's Intoxication<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b1333f3aea6dac4db24f19a7bc25b67a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/108b4c84b7b134ddbf1443ec9d64575a.png"
                     height="18"
                   />
                   Ornate Kabuto<br />
@@ -3308,7 +3312,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e91aeffe4e87f2e4de716272a8ff6327.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/76c44e67712cf8c6d8e3c80114d7a2e3.png"
                 height="250"
               />
             </p>
@@ -3349,23 +3353,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/c1044cce25ac7a0cc9b51d6c20ea4630.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/48bd298d43dda1bd776bd69a45f81b15.png"
                     height="18"
                   />
                   Witch's Flower of Blaze<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/21ef0c47d8754f3240b8253e8eabdbf0.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/77800c2009bccb90c3010f1f5df2520f.png"
                     height="18"
                   />
                   Witch's Ever-Burning Plume<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/23dd412478100d82c18664f868bc7cd5.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5e23bcb327418e280b7034e087ab0fb3.png"
                     height="18"
                   />
                   Witch's End Time<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/865aa8cfa289653eea7c11506bae3531.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/d04dacf315b398e15e0d6471fa8ba270.png"
                     height="18"
                   />
                   Goblet of Thundering Deep<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/45351e17a40abc1c091eb38fa6e905e4.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/656b17dedf0bde524b8a7854cc820c58.png"
                     height="18"
                   />
                   Witch's Scorching Hat<br />
@@ -3420,7 +3424,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/89ecc9bd41b449014e0e5c6dc8c1d9fb.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5334f47e613e5f868b48b4d2f745620d.png"
                 height="250"
               />
             </p>
@@ -3460,23 +3464,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/618cce4e0b25e094910a1aa9d3e5119a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9ce2c3841673a08f17f4dc84b43e5aeb.png"
                     height="18"
                   />
                   Sea-Dyed Blossom<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ee123bfbce0ade513ab4f326da940f5a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/13e0e06162559827187e30124f0a0d96.png"
                     height="18"
                   />
                   Deep Palace's Plume<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/984e768e70ca0ee4242baaca9acdc2d6.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/8368b8bc6ef652c90b5c4deea02792b4.png"
                     height="18"
                   />
                   Copper Compass<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/fbafb4dd039a64d6527728b038341675.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/4ed43ceed66280808a3e8c2c3385215c.png"
                     height="18"
                   />
                   Pearl Cage<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1f7c03f6503c002564c6fdb4974e4e74.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/a2318f7ce469c20d4d5466dc79ddefcf.png"
                     height="18"
                   />
                   Crown of Watatsumi<br />
@@ -3531,7 +3535,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/79b24d2c58322596a125a5150eebc1da.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/dbf4e0c9961ce13bb94209747577d60b.png"
                 height="250"
               />
             </p>
@@ -3572,23 +3576,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ec5e3608654ab82f7fab2d2295914a23.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/023febfa8f68a2267084c15dc7147bdb.png"
                     height="18"
                   />
                   Gladiator's Nostalgia<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/201efeeac7a7ece7123ec2ea4bc5b930.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/81f32e17f2ab14e183654a0a7c2f0f52.png"
                     height="18"
                   />
                   Gladiator's Destiny<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1ac635f6c8cec0ce7db52b504aeba702.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2ffcc94aa5746566fecf3b32fecb59a1.png"
                     height="18"
                   />
                   Gladiator's Longing<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/cdfeb36f415654c51599921fad277b33.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/d7ae11256bc7d8b16fb620ba59167937.png"
                     height="18"
                   />
                   Hopeful Heart<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7a36df522d963f9adebe38cc588e4559.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/de27ef2182fc27bb5b9347de84a8cc15.png"
                     height="18"
                   />
                   Capricious Visage<br />
@@ -3643,7 +3647,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/01736a25a5af4ef284d8bcca062ec94c.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/0396d71e4c02dfbc996f44469cfb54ca.png"
                 height="250"
               />
             </p>
@@ -3684,23 +3688,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/5235f92508d9b246ea95d3ba2a0d1c95.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/ac12311d22c94e1b0aa017d9d30c8b58.png"
                     height="18"
                   />
                   Snowswept Memory<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/804b18b39734e988c9e09041c330b4f8.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/0a444b1354a461dcac3cba0270b5ae3d.png"
                     height="18"
                   />
                   Icebreaker's Resolve<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/22ec22514ba0e91e35b5dedae8996b00.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/ab98aeab5737e4b28ab43769d3e76d06.png"
                     height="18"
                   />
                   Frozen Homeland's Demise<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f2578d6ab3e16b2b4c7b4a967777070b.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9c2a8602e1d71ad1ee76e01ddd947f1c.png"
                     height="18"
                   />
                   Scarlet Vessel<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/48de65c7e9cd73267ac3261f6d3f7d9a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/f7e178d7fdcb963a4f3513cb6b4b113a.png"
                     height="18"
                   />
                   Broken Rime's Echo<br />
@@ -3755,7 +3759,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/17b198657b37b979625edf4816b4c8d2.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9f18250d3ad5e6147218266ae06785d9.png"
                 height="250"
               />
             </p>
@@ -3793,23 +3797,23 @@
                 <td>Artifacts<br />5 x Viridescent Venerer<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/5cc206e8c535aed97607db07ae75df93.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/ee5b73f6bfa4271e486a4af422d3db53.png"
                     height="18"
                   />
                   In Remembrance of Viridescent Fields<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ed7690352407535bd0016955c9e61162.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/6238ff57b9cca14d668529a0e227ebca.png"
                     height="18"
                   />
                   Viridescent Arrow Feather<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8454dbc5e49bc56879567eba7fce1b36.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/6f2c6aad098dc9e36a4feeee20629e6c.png"
                     height="18"
                   />
                   Viridescent Venerer's Determination<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8afb003b814193e311fb6f6ba312f5f4.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9377819ba665ec719b4d4640f29accfd.png"
                     height="18"
                   />
                   Viridescent Venerer's Vessel<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/cb5ae3df92328f9c22a426137227dbaa.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/d88551a7a02f883da4b8526c142b1844.png"
                     height="18"
                   />
                   Viridescent Venerer's Diadem<br />
@@ -3864,7 +3868,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/82d8479533a1733c0a9cfe011407f443.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/0ade904e2e855caa6e5a4baabd04467d.png"
                 height="250"
               />
             </p>
@@ -3905,23 +3909,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b21587d27593b304c85b2d5820ccf168.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/abc33012f40d90d123f398d460cb88e7.png"
                     height="18"
                   />
                   The First Days of the City of Kings<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/71d91c1f6c9b8ee0f1032e4610d71623.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/b51c1fa401fb8b46c538e0a52698badf.png"
                     height="18"
                   />
                   End of the Golden Realm<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1ac635f6c8cec0ce7db52b504aeba702.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2ffcc94aa5746566fecf3b32fecb59a1.png"
                     height="18"
                   />
                   Gladiator's Longing<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e9306060a0541a745080198abbfec23e.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/626a93f8b3b02adca7e68e0f466caa15.png"
                     height="18"
                   />
                   Gladiator's Intoxication<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/d8c6819382527784d788dc40443d17cb.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/26516d25c25df9f50dfff399ad9001cc.png"
                     height="18"
                   />
                   Conductor's Top Hat<br />
@@ -3976,7 +3980,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8efc03875be4a1bad6a2d1e10fee0d48.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/bc1658a27e7f06ee352d219c06357db9.png"
                 height="250"
               />
             </p>
@@ -4017,23 +4021,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/06e54273cd325b9beb30fd8a338a96b9.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/0660ec5236bb6905f78a41d46b0b759b.png"
                     height="18"
                   />
                   Labyrinth Wayfarer<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8eddb241406a6e3520c38652ed1a3a40.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/dc99cbbe611e13f1fee3fc2c0f9235d4.png"
                     height="18"
                   />
                   Scholar of Vines<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a34ce2b87e0dd1a6d4b68e2003cf8e04.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5e4722c28a15925954287f5a3bfbab60.png"
                     height="18"
                   />
                   A Time of Insight<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f2578d6ab3e16b2b4c7b4a967777070b.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9c2a8602e1d71ad1ee76e01ddd947f1c.png"
                     height="18"
                   />
                   Scarlet Vessel<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/075f527571d1c949870c07b3695da617.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/30f2db38375ec4ec320f939d73512de4.png"
                     height="18"
                   />
                   Laurel Coronet<br />
@@ -4088,7 +4092,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a0d5ffb6f81d55cf2ba9c31b561be355.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/cfe14c7b5c635ea3956e55cf23c5a0e1.png"
                 height="250"
               />
             </p>
@@ -4129,23 +4133,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/01416c471cb20d257559287ba73473cd.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/50cc9d3b865bdf140b2da5c578a17af1.png"
                     height="18"
                   />
                   Royal Flora<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/6ebb0950c744108d05fcfb0fb94c201e.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/79f752cf479c2e80f82c823f20609825.png"
                     height="18"
                   />
                   Royal Plume<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7053c424b855d219ef84dbf121a1b6b6.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/1be0f05f656ad2e5dcad3e40d5f4f0d2.png"
                     height="18"
                   />
                   Royal Pocket Watch<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f2578d6ab3e16b2b4c7b4a967777070b.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9c2a8602e1d71ad1ee76e01ddd947f1c.png"
                     height="18"
                   />
                   Scarlet Vessel<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b1333f3aea6dac4db24f19a7bc25b67a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/108b4c84b7b134ddbf1443ec9d64575a.png"
                     height="18"
                   />
                   Ornate Kabuto<br />
@@ -4200,7 +4204,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/659023070f7a03a03d6952405b8f4184.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/35d9a6dd9e64fa6874ba2a301d906f72.png"
                 height="250"
               />
             </p>
@@ -4238,19 +4242,19 @@
                 <td>Artifacts<br />4 x Wanderer's Troupe<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/46c762ef84e23bb2ffda3ce67f7baf81.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/17e60a3f8c11569e67d2d80b4778ae14.png"
                     height="18"
                   />
                   Troupe's Dawnlight<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8dcb040da5b7e6fd66b672f36cf81d5c.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/45abe8db95d7ed8dc048afccd7348652.png"
                     height="18"
                   />
                   Bard's Arrow Feather<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a2507f6f8e918e372ebd3b85466b7b0a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/c784ed33c4799ab977c59b595af3a3b4.png"
                     height="18"
                   />
                   Concert's Final Hour<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/d8c6819382527784d788dc40443d17cb.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/26516d25c25df9f50dfff399ad9001cc.png"
                     height="18"
                   />
                   Conductor's Top Hat<br />
@@ -4305,7 +4309,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/28728182a961612c7cca31d2af39df31.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/d40ec7ea917acbcfb2b4a63bde7d144d.png"
                 height="250"
               />
             </p>
@@ -4392,7 +4396,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a0d5ffb6f81d55cf2ba9c31b561be355.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/cfe14c7b5c635ea3956e55cf23c5a0e1.png"
                 height="250"
               />
             </p>
@@ -4430,19 +4434,19 @@
                 <td>Artifacts<br />4 x Maiden Beloved<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8aa5831290baaa8932fe755c2d415634.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/6b1517cfca07216231e1ed48c36e292e.png"
                     height="18"
                   />
                   Maiden's Distant Love<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/54493c102807017b845f1de62d6851f4.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/e889898578548859e6428e14352ddd2a.png"
                     height="18"
                   />
                   Maiden's Heart-Stricken Infatuation<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f70b02550b9ec3618faf67d026a3d86d.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/357c1f704d1d4074c23d580a48788b2f.png"
                     height="18"
                   />
                   Maiden's Fleeting Leisure<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/6d914b27d6a6125625b9e4d23a21facb.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/bb250b3e72b5b3b6a17a922c8ff7d75e.png"
                     height="18"
                   />
                   Maiden's Fading Beauty<br />
@@ -4497,7 +4501,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/89ecc9bd41b449014e0e5c6dc8c1d9fb.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5334f47e613e5f868b48b4d2f745620d.png"
                 height="250"
               />
             </p>
@@ -4535,23 +4539,23 @@
                 <td>Artifacts<br />5 x Instructor<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/abb2b6038d4a62321870a571eb6329fc.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/e15a707473122bc8fc962ea0923b42d6.png"
                     height="18"
                   />
                   Instructor's Brooch<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/0c24cb1a04c7c879195bc25bfc7ed733.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/e28a16230a377aa8b173190bac1de93a.png"
                     height="18"
                   />
                   Instructor's Feather Accessory<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4afa8797db757484873b4f8e4d35a2d4.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/cefe4b14345da0856040b06fece3c368.png"
                     height="18"
                   />
                   Instructor's Pocket Watch<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/459cae1464f465a414afc23586a5125a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/72ebff2baab85ed565e66de263f8ea0b.png"
                     height="18"
                   />
                   Instructor's Tea Cup<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a1767cb7d6a36fcbb132ace1990698a6.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/6fdf9bac1a060194deac967b494bdfe3.png"
                     height="18"
                   />
                   Instructor's Cap<br />
@@ -4606,7 +4610,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/270c4df09d276c3d0934e0cb43cbb991.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/0195e3ef6ee3201c000c94907df40df8.png"
                 height="250"
               />
             </p>
@@ -4648,23 +4652,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/bb3f9540ff05051d7f5cb2969ed715ac.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2a01c80f2c981a311ef06b724d37b866.png"
                     height="18"
                   />
                   Entangling Bloom<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8eddb241406a6e3520c38652ed1a3a40.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/dc99cbbe611e13f1fee3fc2c0f9235d4.png"
                     height="18"
                   />
                   Scholar of Vines<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1ac635f6c8cec0ce7db52b504aeba702.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2ffcc94aa5746566fecf3b32fecb59a1.png"
                     height="18"
                   />
                   Gladiator's Longing<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e9306060a0541a745080198abbfec23e.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/626a93f8b3b02adca7e68e0f466caa15.png"
                     height="18"
                   />
                   Gladiator's Intoxication<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/45351e17a40abc1c091eb38fa6e905e4.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/656b17dedf0bde524b8a7854cc820c58.png"
                     height="18"
                   />
                   Witch's Scorching Hat<br />
@@ -4719,7 +4723,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/37b965e716bd85fa0e9b0abec9404332.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/773604d549a2a8f0c9b41d2f937a90ae.png"
                 height="250"
               />
             </p>
@@ -4760,11 +4764,11 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/22ec22514ba0e91e35b5dedae8996b00.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/ab98aeab5737e4b28ab43769d3e76d06.png"
                     height="18"
                   />
                   Frozen Homeland's Demise<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1f7c03f6503c002564c6fdb4974e4e74.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/a2318f7ce469c20d4d5466dc79ddefcf.png"
                     height="18"
                   />
                   Crown of Watatsumi<br />
@@ -4819,7 +4823,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/5f394dbcced82c30b8310d36a9cd5314.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/cc463c86f619282fd0ad0b73bc4aa98c.png"
                 height="250"
               />
             </p>
@@ -4860,23 +4864,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7378ca4ce04975eed9c26c9e812a4f9c.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9258ea545a6fa4c4a9bf9d8f4744a19b.png"
                     height="18"
                   />
                   Magnificent Tsuba<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b46bb5c5399de10ccae1de9070007f14.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5e8adae6710eaf250da989e35afd4644.png"
                     height="18"
                   />
                   Sundered Feather<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/2d0a2643efcc0a8d096cd76ec9f28b72.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9fce9ffd414ebb174e45aaf5f7c779ba.png"
                     height="18"
                   />
                   Timepiece of the Lost Path<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f2578d6ab3e16b2b4c7b4a967777070b.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9c2a8602e1d71ad1ee76e01ddd947f1c.png"
                     height="18"
                   />
                   Scarlet Vessel<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b1333f3aea6dac4db24f19a7bc25b67a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/108b4c84b7b134ddbf1443ec9d64575a.png"
                     height="18"
                   />
                   Ornate Kabuto<br />
@@ -4931,7 +4935,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/625b99fc0d20cbbb078a6c472684f7a3.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/863c832cc71f3b5d02ac4ede4bd58691.png"
                 height="250"
               />
             </p>
@@ -4972,23 +4976,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7378ca4ce04975eed9c26c9e812a4f9c.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9258ea545a6fa4c4a9bf9d8f4744a19b.png"
                     height="18"
                   />
                   Magnificent Tsuba<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b46bb5c5399de10ccae1de9070007f14.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5e8adae6710eaf250da989e35afd4644.png"
                     height="18"
                   />
                   Sundered Feather<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4e0bbf925c4e36b5fbdf68a3490b71de.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/e5fd88d4834ccf8b1e2be27d89758792.png"
                     height="18"
                   />
                   Storm Cage<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f2578d6ab3e16b2b4c7b4a967777070b.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9c2a8602e1d71ad1ee76e01ddd947f1c.png"
                     height="18"
                   />
                   Scarlet Vessel<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8414fe5540d8a6d12ca5e59fb654b042.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9181d0b9f7f9e446f7e26b35ceb7bbf9.png"
                     height="18"
                   />
                   Shadow of the Sand King<br />
@@ -5043,7 +5047,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/abf7424b081b91b5d776036087536bb0.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/62c4165bec223dea793eacd9ff5f41f1.png"
                 height="250"
               />
             </p>
@@ -5084,19 +5088,19 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/bb3f9540ff05051d7f5cb2969ed715ac.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2a01c80f2c981a311ef06b724d37b866.png"
                     height="18"
                   />
                   Entangling Bloom<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/23dd412478100d82c18664f868bc7cd5.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5e23bcb327418e280b7034e087ab0fb3.png"
                     height="18"
                   />
                   Witch's End Time<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e9306060a0541a745080198abbfec23e.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/626a93f8b3b02adca7e68e0f466caa15.png"
                     height="18"
                   />
                   Gladiator's Intoxication<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7a36df522d963f9adebe38cc588e4559.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/de27ef2182fc27bb5b9347de84a8cc15.png"
                     height="18"
                   />
                   Capricious Visage<br />
@@ -5151,7 +5155,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/79b24d2c58322596a125a5150eebc1da.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/dbf4e0c9961ce13bb94209747577d60b.png"
                 height="250"
               />
             </p>
@@ -5192,23 +5196,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7378ca4ce04975eed9c26c9e812a4f9c.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9258ea545a6fa4c4a9bf9d8f4744a19b.png"
                     height="18"
                   />
                   Magnificent Tsuba<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b46bb5c5399de10ccae1de9070007f14.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5e8adae6710eaf250da989e35afd4644.png"
                     height="18"
                   />
                   Sundered Feather<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4e0bbf925c4e36b5fbdf68a3490b71de.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/e5fd88d4834ccf8b1e2be27d89758792.png"
                     height="18"
                   />
                   Storm Cage<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f2578d6ab3e16b2b4c7b4a967777070b.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9c2a8602e1d71ad1ee76e01ddd947f1c.png"
                     height="18"
                   />
                   Scarlet Vessel<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b98be8f7b76c8185d1a10e6195707553.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/05c1ed893dba0dba934e6b5dbc5b2879.png"
                     height="18"
                   />
                   Lavawalker's Wisdom<br />
@@ -5263,7 +5267,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/067d5f24988443ca2b44baca00e9f4d4.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/979cd2ff1e092deab1577bd82acc6b41.png"
                 height="250"
               />
             </p>
@@ -5304,15 +5308,15 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ec5e3608654ab82f7fab2d2295914a23.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/023febfa8f68a2267084c15dc7147bdb.png"
                     height="18"
                   />
                   Gladiator's Nostalgia<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e8b697360f25f20c925acb0bf0fb837a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2ec42c9541ce14d4bec2d7b24e8c6f77.png"
                     height="18"
                   />
                   Morning Dew's Moment<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/104fde685bbe4271de73e44f0da00ec0.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/279206e064f7cfbfc196825e2f59826c.png"
                     height="18"
                   />
                   Royal Masque<br />
@@ -5367,7 +5371,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/cc000377d2ec9fefa766090a811ac910.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/58cfe6c2137603eadf37cde6f51f3376.png"
                 height="250"
               />
             </p>
@@ -5454,7 +5458,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/0ce15fe98742c033b95b548e3a42ba36.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/32e2ab18ce1a38bc9d567b4abc5f486b.png"
                 height="250"
               />
             </p>
@@ -5541,7 +5545,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/28b92760fb0d590ede3ecf27e5faf8d8.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/7f322a1e84f903541cd9eb73deb791d1.png"
                 height="250"
               />
             </p>
@@ -5628,7 +5632,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/972c3fc38cddf6147ddf6cab9c610e06.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2b54ca5bdf6d74c29b646f30d3924b10.png"
                 height="250"
               />
             </p>
@@ -5669,23 +5673,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/46c762ef84e23bb2ffda3ce67f7baf81.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/17e60a3f8c11569e67d2d80b4778ae14.png"
                     height="18"
                   />
                   Troupe's Dawnlight<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b46bb5c5399de10ccae1de9070007f14.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5e8adae6710eaf250da989e35afd4644.png"
                     height="18"
                   />
                   Sundered Feather<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a2507f6f8e918e372ebd3b85466b7b0a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/c784ed33c4799ab977c59b595af3a3b4.png"
                     height="18"
                   />
                   Concert's Final Hour<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f2578d6ab3e16b2b4c7b4a967777070b.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9c2a8602e1d71ad1ee76e01ddd947f1c.png"
                     height="18"
                   />
                   Scarlet Vessel<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/d8c6819382527784d788dc40443d17cb.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/26516d25c25df9f50dfff399ad9001cc.png"
                     height="18"
                   />
                   Conductor's Top Hat<br />
@@ -5740,7 +5744,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f4c3dcc38c1b8739d3cede94b546dca5.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/425ffda2b317f32763d8a1854174b022.png"
                 height="250"
               />
             </p>
@@ -5827,7 +5831,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b553f044831c276bf661a3bc16d2ee46.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5fbfca38cf13884acbda3641bb5d418e.png"
                 height="250"
               />
             </p>
@@ -5868,15 +5872,15 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e8b697360f25f20c925acb0bf0fb837a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2ec42c9541ce14d4bec2d7b24e8c6f77.png"
                     height="18"
                   />
                   Morning Dew's Moment<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/9f3d09aeacfa02bb52e7be7c7e211189.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/19f21bf54e1a2bad3cf25940a2b34d7f.png"
                     height="18"
                   />
                   Lamp of the Lost<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/6d914b27d6a6125625b9e4d23a21facb.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/bb250b3e72b5b3b6a17a922c8ff7d75e.png"
                     height="18"
                   />
                   Maiden's Fading Beauty<br />
@@ -5931,7 +5935,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/744ee99b1caf4ab29a91595b5c62bc9c.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/f734ab19603a41d8df6a41e18ce3293d.png"
                 height="250"
               />
             </p>
@@ -6018,7 +6022,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/daa7b096506a7f1e3eb0117d53779b31.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/86c19f0d5f4624d015b04f50ac234773.png"
                 height="250"
               />
             </p>
@@ -6059,19 +6063,19 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/804b18b39734e988c9e09041c330b4f8.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/0a444b1354a461dcac3cba0270b5ae3d.png"
                     height="18"
                   />
                   Icebreaker's Resolve<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/984e768e70ca0ee4242baaca9acdc2d6.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/8368b8bc6ef652c90b5c4deea02792b4.png"
                     height="18"
                   />
                   Copper Compass<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e9306060a0541a745080198abbfec23e.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/626a93f8b3b02adca7e68e0f466caa15.png"
                     height="18"
                   />
                   Gladiator's Intoxication<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b5d963fef002331d361e622be3b2ef1a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9255217df029191d69eb80a4e284b923.png"
                     height="18"
                   />
                   Summer Night's Mask<br />
@@ -6126,7 +6130,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a247dccecb71ef3e5aa563bce1615ef6.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/06ba3d2261cc0a1636ec78778875431e.png"
                 height="250"
               />
             </p>
@@ -6167,23 +6171,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/5cc206e8c535aed97607db07ae75df93.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/ee5b73f6bfa4271e486a4af422d3db53.png"
                     height="18"
                   />
                   In Remembrance of Viridescent Fields<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ed7690352407535bd0016955c9e61162.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/6238ff57b9cca14d668529a0e227ebca.png"
                     height="18"
                   />
                   Viridescent Arrow Feather<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4d6ee660b1e5dbed8094be5f68d35b02.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/e1544807bfd3a7fdb3345874c54fbb14.png"
                     height="18"
                   />
                   The Sunken Years<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f70b02550b9ec3618faf67d026a3d86d.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/357c1f704d1d4074c23d580a48788b2f.png"
                     height="18"
                   />
                   Maiden's Fleeting Leisure<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/cb5ae3df92328f9c22a426137227dbaa.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/d88551a7a02f883da4b8526c142b1844.png"
                     height="18"
                   />
                   Viridescent Venerer's Diadem<br />
@@ -6238,7 +6242,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7298e75bbf7a577ee43539e6586d14b3.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/04a31f12c494dee3df9a7219e890fde7.png"
                 height="250"
               />
             </p>
@@ -6280,23 +6284,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/5cc206e8c535aed97607db07ae75df93.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/ee5b73f6bfa4271e486a4af422d3db53.png"
                     height="18"
                   />
                   In Remembrance of Viridescent Fields<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ed7690352407535bd0016955c9e61162.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/6238ff57b9cca14d668529a0e227ebca.png"
                     height="18"
                   />
                   Viridescent Arrow Feather<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4e0bbf925c4e36b5fbdf68a3490b71de.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/e5fd88d4834ccf8b1e2be27d89758792.png"
                     height="18"
                   />
                   Storm Cage<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/117da888a6f7bc96567f49d185d815bf.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/bddbb0b1634630f4eb62ce12cfa673a7.png"
                     height="18"
                   />
                   Witch's Heart Flames<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7a36df522d963f9adebe38cc588e4559.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/de27ef2182fc27bb5b9347de84a8cc15.png"
                     height="18"
                   />
                   Capricious Visage<br />
@@ -6351,7 +6355,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f3d3c48802b8be1b59fcae8723430e7a.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/d7cbcce1b3ebffd1a89b71b43d8ce938.png"
                 height="250"
               />
             </p>
@@ -6393,23 +6397,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7378ca4ce04975eed9c26c9e812a4f9c.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9258ea545a6fa4c4a9bf9d8f4744a19b.png"
                     height="18"
                   />
                   Magnificent Tsuba<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b46bb5c5399de10ccae1de9070007f14.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5e8adae6710eaf250da989e35afd4644.png"
                     height="18"
                   />
                   Sundered Feather<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a2507f6f8e918e372ebd3b85466b7b0a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/c784ed33c4799ab977c59b595af3a3b4.png"
                     height="18"
                   />
                   Concert's Final Hour<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/cdfeb36f415654c51599921fad277b33.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/d7ae11256bc7d8b16fb620ba59167937.png"
                     height="18"
                   />
                   Hopeful Heart<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f6ab9ef8479f2cb6a584d36728323004.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/00cbcd1bc070422b835c5355cb0085ec.png"
                     height="18"
                   />
                   Gladiator's Triumphus<br />
@@ -6464,7 +6468,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/3029d5a07cd51e677a9d48945cee65b2.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/fb34879f1ad703644b7a8d43738584db.png"
                 height="250"
               />
             </p>
@@ -6505,23 +6509,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/0f9b505d448d0bad21be303a814e485b.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/7cac1b4bcdfb8f0708617f1895be281f.png"
                     height="18"
                   />
                   Dreaming Steelbloom<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/04007e95b0565eb56254422d1c19ef7f.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2dd97e9a3040c7233edda98abce864a5.png"
                     height="18"
                   />
                   Feather of Judgment<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4e0bbf925c4e36b5fbdf68a3490b71de.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/e5fd88d4834ccf8b1e2be27d89758792.png"
                     height="18"
                   />
                   Storm Cage<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/d9ff3a226399fc49f37754c511c06f79.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/c2e17c1f99fa51c25b1d6aa68cf05cb0.png"
                     height="18"
                   />
                   Honeyed Final Feast<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8414fe5540d8a6d12ca5e59fb654b042.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9181d0b9f7f9e446f7e26b35ceb7bbf9.png"
                     height="18"
                   />
                   Shadow of the Sand King<br />
@@ -6576,7 +6580,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/2acd3d227b4a02107f5a4c42e077269b.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/f97716cd3121d6af5792f3d9c9ccc15d.png"
                 height="250"
               />
             </p>
@@ -6614,11 +6618,11 @@
                 <td>Artifacts<br />2 x Tenacity of the Millelith<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/888a9e7a02a478608f51cbd963d48c10.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/dc84bef33aac8918f8187fac6d02a796.png"
                     height="18"
                   />
                   Flower of Accolades<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/92935bab7ff11f1de4a54e491fee895c.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/3dbeecdab4fbb9bd05ca6a6f8d9dbd70.png"
                     height="18"
                   />
                   Ceremonial War-Plume<br />
@@ -6673,7 +6677,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/faea709dbd658240441545a333235f07.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/90240fffb2498fe90fe6c2927e696233.png"
                 height="250"
               />
             </p>
@@ -6714,23 +6718,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/01416c471cb20d257559287ba73473cd.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/50cc9d3b865bdf140b2da5c578a17af1.png"
                     height="18"
                   />
                   Royal Flora<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/6ebb0950c744108d05fcfb0fb94c201e.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/79f752cf479c2e80f82c823f20609825.png"
                     height="18"
                   />
                   Royal Plume<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7053c424b855d219ef84dbf121a1b6b6.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/1be0f05f656ad2e5dcad3e40d5f4f0d2.png"
                     height="18"
                   />
                   Royal Pocket Watch<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/cdfeb36f415654c51599921fad277b33.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/d7ae11256bc7d8b16fb620ba59167937.png"
                     height="18"
                   />
                   Hopeful Heart<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/104fde685bbe4271de73e44f0da00ec0.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/279206e064f7cfbfc196825e2f59826c.png"
                     height="18"
                   />
                   Royal Masque<br />
@@ -6785,7 +6789,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8013d6fe509dc550dbef8e432de3738b.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/c41423ff5c782e9179df337b31fb7700.png"
                 height="250"
               />
             </p>
@@ -6872,7 +6876,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/aa559b299eed4796e4c4ad5e89ae258e.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5f81e9eac0fa34e86308f5f58f59a99b.png"
                 height="250"
               />
             </p>
@@ -6910,7 +6914,7 @@
                 <td>Artifacts<br />1 x Gladiator's Finale<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ec5e3608654ab82f7fab2d2295914a23.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/023febfa8f68a2267084c15dc7147bdb.png"
                     height="18"
                   />
                   Gladiator's Nostalgia<br />
@@ -6965,7 +6969,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/81374ac37506affb8d3eb83ba8816778.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/6fb25f50500a34ff2ad85b70337f94f6.png"
                 height="250"
               />
             </p>
@@ -7052,7 +7056,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/35cf94ca471e5ff85b8c061c1e630594.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9c46471827fccb87272180b0d177c702.png"
                 height="250"
               />
             </p>
@@ -7139,7 +7143,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/832082df256e4525837ed47125cdd9a5.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/1ae37ceaca9b404db9ccc7a8a13615f6.png"
                 height="250"
               />
             </p>
@@ -7226,7 +7230,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/0ce15fe98742c033b95b548e3a42ba36.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/32e2ab18ce1a38bc9d567b4abc5f486b.png"
                 height="250"
               />
             </p>
@@ -7294,99 +7298,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Chongyun</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Chongyun</h3></th>
-          <th><h3 align="center">Snow-Tombed Starsilver</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Chongyun_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/c804f3d44765bf3b3efec2271333d847.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>50</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>4</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br />1 x Emblem of Severed Fate<br /></td>
-                <td>
-                  <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b1333f3aea6dac4db24f19a7bc25b67a.png"
-                    height="18"
-                  />
-                  Ornate Kabuto<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Snow-Tombed Starsilver</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Collei</b></summary>
       <br />
       <table>
@@ -7406,7 +7317,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/832082df256e4525837ed47125cdd9a5.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/1ae37ceaca9b404db9ccc7a8a13615f6.png"
                 height="250"
               />
             </p>
@@ -7430,7 +7341,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>21</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Friendship</td>
@@ -7493,7 +7404,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/02113b89295585bee1a7f926be98b6f3.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/747442153575dc6323042a44bf343c2e.png"
                 height="250"
               />
             </p>
@@ -7517,7 +7428,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>21</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Friendship</td>
@@ -7561,6 +7472,99 @@
       </table>
     </details>
     <details>
+      <summary><b>Chongyun</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Chongyun</h3></th>
+          <th><h3 align="center">Snow-Tombed Starsilver</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Chongyun_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/7fe3b48ce49315f790e31a95aacfe78c.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>4</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br />1 x Emblem of Severed Fate<br /></td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/108b4c84b7b134ddbf1443ec9d64575a.png"
+                    height="18"
+                  />
+                  Ornate Kabuto<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Snow-Tombed Starsilver</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Yun Jin</b></summary>
       <br />
       <table>
@@ -7580,7 +7584,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/61a4f6860a48208b0bc8b7dd8bb5ecf7.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/7cb22c7dfc7a4d025b00abea3945b2a0.png"
                 height="250"
               />
             </p>
@@ -7618,15 +7622,15 @@
                 <td>Artifacts<br />3 x Emblem of Severed Fate<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4e0bbf925c4e36b5fbdf68a3490b71de.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/e5fd88d4834ccf8b1e2be27d89758792.png"
                     height="18"
                   />
                   Storm Cage<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f2578d6ab3e16b2b4c7b4a967777070b.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/9c2a8602e1d71ad1ee76e01ddd947f1c.png"
                     height="18"
                   />
                   Scarlet Vessel<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b1333f3aea6dac4db24f19a7bc25b67a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/108b4c84b7b134ddbf1443ec9d64575a.png"
                     height="18"
                   />
                   Ornate Kabuto<br />
@@ -7681,7 +7685,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/832082df256e4525837ed47125cdd9a5.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/1ae37ceaca9b404db9ccc7a8a13615f6.png"
                 height="250"
               />
             </p>
@@ -7768,7 +7772,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e8f9a61c6ad68042047f7430d79da866.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/4f063ffd1c7147b2f98ca9641b6b5fbe.png"
                 height="250"
               />
             </p>
@@ -7855,7 +7859,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ef372bdcfcd05520bfed608608cdfd96.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/a992684119124978056a7d87caff3aa8.png"
                 height="250"
               />
             </p>
@@ -7942,7 +7946,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ef372bdcfcd05520bfed608608cdfd96.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/a992684119124978056a7d87caff3aa8.png"
                 height="250"
               />
             </p>
@@ -8029,7 +8033,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/0d5192b58aedcd3f6b5269b53e2741df.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/00b16c106d3f42dd56bd7f8cdf955f3d.png"
                 height="250"
               />
             </p>
@@ -8101,11 +8105,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_01_09_2023-13_22_29.png" />
+  <img src="images/showcase/genshin_card_01_09_2023_19_32_35.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_01_09_2023-13_22_30.png" />
+  <img src="images/showcase/genshin_card_01_09_2023_19_32_36.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
