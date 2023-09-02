@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 02, 2023 19:29 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 03, 2023 01:20 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -38,17 +38,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>2</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Condensed Aether
+          Credit
         </td>
       </tr>
     </table>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_02_09_2023_19_29_52.png" />
+    <img src="images/profile/genshin_profile_03_09_2023_01_20_07.png" />
   </div>
   <div align="center">
     <h2>
@@ -2612,11 +2612,6 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-            ,
-            height="18"
-          />
-          Xingqiu (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
             ,
             height="18"
@@ -2631,7 +2626,12 @@
             ,
             height="18"
           />
-          Hu Tao (12)<br />
+          Hu Tao (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (12)<br />
         </td>
       </tr>
       <tr>
@@ -2702,7 +2702,7 @@
           />
           Primogems earned
         </td>
-        <td>685 (rate -93)</td>
+        <td>750 (rate -92)</td>
       </tr>
       <tr>
         <td>
@@ -2712,13 +2712,13 @@
           />
           Mora earned
         </td>
-        <td>648247 (rate -93)</td>
+        <td>717899 (rate -93)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Spiral Abyss: 600 (88%)<br />Daily Activity: 60 (9%)<br />Adventure:
-          25 (3%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+          Spiral Abyss: 600 (80%)<br />Daily Activity: 120 (16%)<br />Adventure:
+          30 (4%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
           0 (0%)<br />
         </td>
       </tr>
@@ -6997,7 +6997,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -7713,7 +7713,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -7800,7 +7800,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -7887,7 +7887,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -8105,11 +8105,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_02_09_2023_19_29_26.png" />
+  <img src="images/showcase/genshin_card_03_09_2023_01_19_39.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_02_09_2023_19_29_27.png" />
+  <img src="images/showcase/genshin_card_03_09_2023_01_19_40.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
