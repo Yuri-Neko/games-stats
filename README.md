@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 03, 2023 08:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 03, 2023 13:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -65,7 +65,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>124</td>
+        <td>125</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>1958 (rate -74)</td>
+        <td>2078 (rate -72)</td>
       </tr>
       <tr>
         <td>
@@ -100,14 +100,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>14 (rate -44)</td>
+        <td>15 (rate -40)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1530 (78%)<br />Adventure Rewards: 305 (15%)<br />Daily
-          Activity: 120 (6%)<br />Other: 3 (1%)<br />Simulated Universe: 0
-          (0%)<br />Forgotten Hall: 0 (0%)<br />Mail: 0 (0%)<br />
+          Event: 1530 (73%)<br />Adventure Rewards: 305 (14%)<br />Daily
+          Activity: 180 (8%)<br />Other: 3 (3%)<br />Forgotten Hall: 60 (2%)<br />Simulated
+          Universe: 0 (0%)<br />Mail: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -121,15 +121,15 @@
       </tr>
       <tr>
         <td>Max Floor</td>
-        <td>Traces of Sanctus Medicus Stage 5</td>
+        <td>Traces of Sanctus Medicus Stage 7</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>9</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Total Stars</td>
-        <td>15</td>
+        <td>20</td>
       </tr>
     </table>
   </div>
@@ -774,16 +774,16 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/d0f63457b2b9576d92129df2b80c887c.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/65d4f3015b7c21b9644939108c6f5b4d.png"
                     ,
                     height="18"
                   />
-                  Herta's Space Station<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7c43316db39f3f2404c4d3ec48da3895.png"
+                  Salsotto's Moving City<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/3d8d35d1885a4708b7682d647eabd622.png"
                     ,
                     height="18"
                   />
-                  Herta's Wandering Trek<br />
+                  Salsotto's Terminator Line<br />
                 </td>
               </tr>
             </table>
@@ -1351,7 +1351,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -1445,11 +1445,11 @@
                     height="18"
                   />
                   The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/24157bb6b00a5c80a7a1bbfdf515dd0c.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/8b0c14d906edec8c233f914d10ff4f06.png"
                     ,
                     height="18"
                   />
-                  Planet Screwllum's Ring System<br />
+                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
                 </td>
               </tr>
             </table>
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_03_09_2023_08_16_16.png" />
+    <img src="images/profile/genshin_profile_03_09_2023_13_21_10.png" />
   </div>
   <div align="center">
     <h2>
@@ -2612,26 +2612,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
             ,
             height="18"
           />
-          Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+          Yae Miko (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Xiangling (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          Yelan (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
             ,
             height="18"
           />
-          Nahida (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+          Hu Tao (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
-          Xingqiu (12)<br />
+          Kaedehara Kazuha (12)<br />
         </td>
       </tr>
       <tr>
@@ -8105,11 +8105,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_03_09_2023_08_15_54.png" />
+  <img src="images/showcase/genshin_card_03_09_2023_13_20_49.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_03_09_2023_08_15_55.png" />
+  <img src="images/showcase/genshin_card_03_09_2023_13_20_50.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
