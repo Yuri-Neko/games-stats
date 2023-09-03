@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 03, 2023 01:20 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 03, 2023 08:16 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2231,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_03_09_2023_01_20_07.png" />
+    <img src="images/profile/genshin_profile_03_09_2023_08_16_16.png" />
   </div>
   <div align="center">
     <h2>
@@ -2267,11 +2267,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>856</td>
+        <td>857</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>772</td>
+        <td>773</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2571,7 +2571,7 @@
       </tr>
       <tr>
         <td>Items</td>
-        <td>1294</td>
+        <td>1296</td>
       </tr>
       <tr>
         <td>Visitors</td>
@@ -2612,26 +2612,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Yae Miko (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          Raiden Shogun (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
-          Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+          Xiangling (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
-          Hu Tao (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          Nahida (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (12)<br />
+          Xingqiu (12)<br />
         </td>
       </tr>
       <tr>
@@ -8105,11 +8105,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_03_09_2023_01_19_39.png" />
+  <img src="images/showcase/genshin_card_03_09_2023_08_15_54.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_03_09_2023_01_19_40.png" />
+  <img src="images/showcase/genshin_card_03_09_2023_08_15_55.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
