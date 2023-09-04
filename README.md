@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 04, 2023 01:20 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 04, 2023 08:13 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -109,27 +109,6 @@
           Activity: 180 (8%)<br />Other: 3 (3%)<br />Forgotten Hall: 60 (2%)<br />Simulated
           Universe: 0 (0%)<br />Mail: 0 (0%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>115</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>Traces of Sanctus Medicus Stage 7</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>12</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>20</td>
       </tr>
     </table>
   </div>
@@ -2231,7 +2210,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_04_09_2023_01_20_12.png" />
+    <img src="images/profile/genshin_profile_04_09_2023_08_13_37.png" />
   </div>
   <div align="center">
     <h2>
@@ -2271,7 +2250,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>773</td>
+        <td>774</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2612,16 +2591,6 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
@@ -2631,7 +2600,17 @@
             ,
             height="18"
           />
-          Nahida (12)<br />
+          Nahida (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+            ,
+            height="18"
+          />
+          Xingqiu (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+            ,
+            height="18"
+          />
+          Yae Miko (12)<br />
         </td>
       </tr>
       <tr>
@@ -2702,7 +2681,7 @@
           />
           Primogems earned
         </td>
-        <td>750 (rate -92)</td>
+        <td>810 (rate -91)</td>
       </tr>
       <tr>
         <td>
@@ -2712,13 +2691,13 @@
           />
           Mora earned
         </td>
-        <td>717899 (rate -93)</td>
+        <td>772524 (rate -92)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Spiral Abyss: 600 (80%)<br />Daily Activity: 120 (16%)<br />Adventure:
-          30 (4%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+          Spiral Abyss: 600 (75%)<br />Daily Activity: 180 (22%)<br />Adventure:
+          30 (3%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
           0 (0%)<br />
         </td>
       </tr>
@@ -8105,11 +8084,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_04_09_2023_01_19_44.png" />
+  <img src="images/showcase/genshin_card_04_09_2023_08_13_10.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_04_09_2023_01_19_45.png" />
+  <img src="images/showcase/genshin_card_04_09_2023_08_13_11.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
