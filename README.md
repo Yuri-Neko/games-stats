@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 04, 2023 08:13 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 04, 2023 13:23 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -65,15 +65,15 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>125</td>
+        <td>126</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>21</td>
+        <td>23</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>268</td>
+        <td>270</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>2078 (rate -72)</td>
+        <td>2433 (rate -67)</td>
       </tr>
       <tr>
         <td>
@@ -100,15 +100,36 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>15 (rate -40)</td>
+        <td>25 (rate 0)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1530 (73%)<br />Adventure Rewards: 305 (14%)<br />Daily
-          Activity: 180 (8%)<br />Other: 3 (3%)<br />Forgotten Hall: 60 (2%)<br />Simulated
-          Universe: 0 (0%)<br />Mail: 0 (0%)<br />
+          Event: 1530 (62%)<br />Adventure Rewards: 315 (12%)<br />Daily
+          Activity: 240 (9%)<br />Simulated Universe: 225 (9%)<br />Forgotten
+          Hall: 120 (4%)<br />Other: 3 (4%)<br />Mail: 0 (0%)<br />
         </td>
+      </tr>
+    </table>
+  </div>
+  <div align="center">
+    <h2>Memory of Chaos</h2>
+    <table>
+      <tr>
+        <td>Season</td>
+        <td>1001</td>
+      </tr>
+      <tr>
+        <td>Max Floor</td>
+        <td>Ethereal Shipcraft Stage 1</td>
+      </tr>
+      <tr>
+        <td>Total Battles</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Total Stars</td>
+        <td>3</td>
       </tr>
     </table>
   </div>
@@ -676,6 +697,117 @@
       </table>
     </details>
     <details>
+      <summary><b>Dan Heng • Imbibitor Lunae </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Dan Heng • Imbibitor Lunae</h3></th>
+          <th><h3>On the Fall of an Aeon</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/cc25500397b2b37969c1209245d847c7.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/1f9ea520d132d1e2e52b3539cf0592a2.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5653faee7e8dfc46e25077e435ba8dc0.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Wild Wheat Felt Hat<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/392a78c4d1ac9020a05554adb2e5a7d7.png"
+                    ,
+                    height="18"
+                  />
+                  Wastelander's Desert Terminal<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/befb79838d1198e9e60963f0da6d9738.png"
+                    ,
+                    height="18"
+                  />
+                  Wastelander's Friar Robe<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/312a48ea1fa47f0845cfc243613d40e4.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Rivets Riding Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/2bbd2bb1b4fce1b05faab23504ef76ee.png"
+                    ,
+                    height="18"
+                  />
+                  Taikiyan Laser Stadium<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b95f46682f1584e5e9e680816b078280.png"
+                    ,
+                    height="18"
+                  />
+                  Taikiyan's Arclight Race Track<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>On the Fall of an Aeon</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>4</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Jing Yuan </b></summary>
       <br />
       <table>
@@ -792,7 +924,7 @@
       <table>
         <tr>
           <th><h3>Tingyun</h3></th>
-          <th><h3>Dance! Dance! Dance!</h3></th>
+          <th><h3>Past and Future</h3></th>
         </tr>
         <tr>
           <td>
@@ -805,7 +937,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/e9fb090e1b21d4054f580f92b846c146.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/d07767b38cc718ba991e10b5e4601ddd.png"
               />
             </p>
           </td>
@@ -882,15 +1014,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Dance! Dance! Dance!</td>
+                <td>Past and Future</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -1014,7 +1146,7 @@
       <table>
         <tr>
           <th><h3>Yukong</h3></th>
-          <th><h3>Memories of the Past</h3></th>
+          <th><h3>Planetary Rendezvous</h3></th>
         </tr>
         <tr>
           <td>
@@ -1027,7 +1159,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a355220955ee018fc5dbedc12a0607ff.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b9c029d8a2b3304019e0a86d1b28e398.png"
               />
             </p>
           </td>
@@ -1054,27 +1186,27 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>2</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5653faee7e8dfc46e25077e435ba8dc0.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/618274578e2e58b51bc2ecad80c5720b.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wild Wheat Felt Hat<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/c1d427f704808c313370d09c0cfddd61.png"
+                  Genius's Ultraremote Sensing Visor<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/3d2cf92ba4272b53a09b815f2fbfb8a8.png"
                     ,
                     height="18"
                   />
-                  Hunter's Lizard Gloves<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/36570b04163aa4be44c391aebd1453e0.png"
+                  Musketeer's Coarse Leather Gloves<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/9b0b809926337ac9076b0fd42a1b2559.png"
                     ,
                     height="18"
                   />
-                  Firesmith's Fireproof Apron<br /><img
+                  Musketeer's Wind-Hunting Shawl<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/312a48ea1fa47f0845cfc243613d40e4.png"
                     ,
                     height="18"
@@ -1104,15 +1236,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Memories of the Past</td>
+                <td>Planetary Rendezvous</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>3</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -1186,11 +1318,11 @@
                     height="18"
                   />
                   Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/312a48ea1fa47f0845cfc243613d40e4.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a4ab41774f2d8f0fce542f48fc6ecb5a.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  Wastelander's Powered Greaves<br />
                 </td>
               </tr>
               <tr>
@@ -1347,7 +1479,7 @@
       <table>
         <tr>
           <th><h3>Asta</h3></th>
-          <th><h3>Past and Future</h3></th>
+          <th><h3>Memories of the Past</h3></th>
         </tr>
         <tr>
           <td>
@@ -1360,7 +1492,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/d07767b38cc718ba991e10b5e4601ddd.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a355220955ee018fc5dbedc12a0607ff.png"
               />
             </p>
           </td>
@@ -1398,11 +1530,11 @@
                     height="18"
                   />
                   Musketeer's Wild Wheat Felt Hat<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/3d2cf92ba4272b53a09b815f2fbfb8a8.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/c1d427f704808c313370d09c0cfddd61.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Coarse Leather Gloves<br /><img
+                  Hunter's Lizard Gloves<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/9b0b809926337ac9076b0fd42a1b2559.png"
                     ,
                     height="18"
@@ -1437,15 +1569,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Past and Future</td>
+                <td>Memories of the Past</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>50</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
             </table>
           </td>
@@ -1609,7 +1741,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -1821,7 +1953,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -1838,6 +1970,117 @@
               <tr>
                 <td>Level</td>
                 <td>1</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Bronya </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Bronya</h3></th>
+          <th><h3>Dance! Dance! Dance!</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/22ad9c64fef1721f5e0a599fbd5accf5.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/e9fb090e1b21d4054f580f92b846c146.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5653faee7e8dfc46e25077e435ba8dc0.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Wild Wheat Felt Hat<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5d038c4896bd0c1cd964d7b9edef451c.png"
+                    ,
+                    height="18"
+                  />
+                  Band's Touring Bracelet<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/1e976573084f6a7b4dd625a5729211f9.png"
+                    ,
+                    height="18"
+                  />
+                  Genius's Metafield Suit<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f2f8e8c71859d5b1214ea206e901667d.png"
+                    ,
+                    height="18"
+                  />
+                  Guard's Silver Greaves<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/1e57ae04db00d6ab473af21290abb6c4.png"
+                    ,
+                    height="18"
+                  />
+                  Insumousu's Whalefall Ship<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/00c0a999e8d9272ce1e49d09519d9675.png"
+                    ,
+                    height="18"
+                  />
+                  Insumousu's Frayed Hawser<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Dance! Dance! Dance!</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -1959,7 +2202,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>20</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Eidolon</td>
@@ -2032,7 +2275,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>20</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Eidolon</td>
@@ -2101,11 +2344,11 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>20</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -2170,7 +2413,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>20</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Eidolon</td>
@@ -2210,7 +2453,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_04_09_2023_08_13_37.png" />
+    <img src="images/profile/genshin_profile_04_09_2023_13_23_17.png" />
   </div>
   <div align="center">
     <h2>
@@ -2219,17 +2462,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>0</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Primogem
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -8084,11 +8327,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_04_09_2023_08_13_10.png" />
+  <img src="images/showcase/genshin_card_04_09_2023_13_22_48.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_04_09_2023_08_13_11.png" />
+  <img src="images/showcase/genshin_card_04_09_2023_13_22_49.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
