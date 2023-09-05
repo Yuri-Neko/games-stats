@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 05, 2023 19:33 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 06, 2023 01:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -38,17 +38,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -2453,7 +2453,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_05_09_2023_19_33_49.png" />
+    <img src="images/profile/genshin_profile_06_09_2023_01_21_49.png" />
   </div>
   <div align="center">
     <h2>
@@ -2462,17 +2462,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>2</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -2489,15 +2489,15 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>857</td>
+        <td>858</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>774</td>
+        <td>775</td>
       </tr>
       <tr>
         <td>Characters</td>
-        <td>53</td>
+        <td>54</td>
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
@@ -2655,7 +2655,7 @@
             </tr>
             <tr>
               <td>Reputation</td>
-              <td>4</td>
+              <td>5</td>
             </tr>
           </table>
         </td>
@@ -2834,16 +2834,6 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-            ,
-            height="18"
-          />
-          Xingqiu (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-            ,
-            height="18"
-          />
-          Yae Miko (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
@@ -2853,7 +2843,17 @@
             ,
             height="18"
           />
-          Hu Tao (12)<br />
+          Hu Tao (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br />
         </td>
       </tr>
       <tr>
@@ -8414,11 +8414,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_05_09_2023_19_33_12.png" />
+  <img src="images/showcase/genshin_card_06_09_2023_01_21_29.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_05_09_2023_19_33_13.png" />
+  <img src="images/showcase/genshin_card_06_09_2023_01_21_30.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
