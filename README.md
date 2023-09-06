@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 06, 2023 19:34 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 07, 2023 01:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -38,17 +38,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -73,7 +73,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>277</td>
+        <td>279</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4395 (rate -41)</td>
+        <td>4755 (rate -36)</td>
       </tr>
       <tr>
         <td>
@@ -105,9 +105,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1530 (34%)<br />Simulated Universe: 1105 (25%)<br />Adventure
-          Rewards: 690 (15%)<br />Forgotten Hall: 680 (15%)<br />Daily Activity:
-          360 (8%)<br />Other: 10 (3%)<br />Mail: 20 (0%)<br />
+          Event: 1530 (32%)<br />Simulated Universe: 1155 (24%)<br />Forgotten
+          Hall: 880 (18%)<br />Adventure Rewards: 800 (16%)<br />Daily Activity:
+          360 (7%)<br />Other: 10 (3%)<br />Mail: 20 (0%)<br />
         </td>
       </tr>
     </table>
@@ -526,21 +526,21 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/972cc1252ab8d94fd3ed4f596083331f.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5653faee7e8dfc46e25077e435ba8dc0.png"
                     ,
                     height="18"
                   />
-                  Firesmith's Obsidian Goggles<br /><img
+                  Musketeer's Wild Wheat Felt Hat<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/516e8270f1100d5f34f17b6f171a7980.png"
                     ,
                     height="18"
                   />
                   Firesmith's Ring of Flame-Mastery<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/9b0b809926337ac9076b0fd42a1b2559.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/36570b04163aa4be44c391aebd1453e0.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wind-Hunting Shawl<br /><img
+                  Firesmith's Fireproof Apron<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5696a448d328e0072634b21457dc3741.png"
                     ,
                     height="18"
@@ -1096,11 +1096,11 @@
                     height="18"
                   />
                   Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b5f9c25f0b0e2b3b5c823b614bb0d1c7.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/312a48ea1fa47f0845cfc243613d40e4.png"
                     ,
                     height="18"
                   />
-                  Genius's Gravity Walker<br />
+                  Musketeer's Rivets Riding Boots<br />
                 </td>
               </tr>
               <tr>
@@ -1318,11 +1318,11 @@
                     height="18"
                   />
                   Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/312a48ea1fa47f0845cfc243613d40e4.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b5f9c25f0b0e2b3b5c823b614bb0d1c7.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  Genius's Gravity Walker<br />
                 </td>
               </tr>
               <tr>
@@ -1701,7 +1701,7 @@
       <table>
         <tr>
           <th><h3>March 7th</h3></th>
-          <th><h3></h3></th>
+          <th><h3>We Are Wildfire</h3></th>
         </tr>
         <tr>
           <td>
@@ -1712,7 +1712,11 @@
             </p>
           </td>
           <td>
-            <p align="center"><img src="" /></p>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/c3a62e635399b5b1491132e50ff570d7.png"
+              />
+            </p>
           </td>
         </tr>
         <tr>
@@ -1787,15 +1791,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td></td>
+                <td>We Are Wildfire</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td></td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td></td>
+                <td>3</td>
               </tr>
             </table>
           </td>
@@ -2560,7 +2564,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_06_09_2023_19_34_17.png" />
+    <img src="images/profile/genshin_profile_07_09_2023_01_22_18.png" />
   </div>
   <div align="center">
     <h2>
@@ -2569,17 +2573,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>3</td>
+        <td>4</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -2600,7 +2604,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>775</td>
+        <td>776</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2941,26 +2945,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
-          Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+          Xiangling (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
-          Hu Tao (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          Nahida (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          Xingqiu (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
             ,
             height="18"
           />
-          Raiden Shogun (12)<br />
+          Yae Miko (12)<br />
         </td>
       </tr>
       <tr>
@@ -3031,7 +3035,7 @@
           />
           Primogems earned
         </td>
-        <td>1015 (rate -89)</td>
+        <td>1075 (rate -89)</td>
       </tr>
       <tr>
         <td>
@@ -3041,12 +3045,12 @@
           />
           Mora earned
         </td>
-        <td>1067813 (rate -89)</td>
+        <td>1140506 (rate -88)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Spiral Abyss: 600 (60%)<br />Daily Activity: 240 (24%)<br />Events:
+          Spiral Abyss: 600 (56%)<br />Daily Activity: 300 (28%)<br />Events:
           140 (13%)<br />Adventure: 35 (3%)<br />Quests: 0 (0%)<br />Mail: 0
           (0%)<br />Other: 0 (0%)<br />
         </td>
@@ -8521,11 +8525,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_06_09_2023_19_33_49.png" />
+  <img src="images/showcase/genshin_card_07_09_2023_01_21_52.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_06_09_2023_19_33_50.png" />
+  <img src="images/showcase/genshin_card_07_09_2023_01_21_53.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
