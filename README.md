@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 06, 2023 13:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 06, 2023 19:34 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -22,7 +22,7 @@
       </tr>
       <tr>
         <td>Trailblaze Level</td>
-        <td>66</td>
+        <td>67</td>
       </tr>
       <tr>
         <td>Server</td>
@@ -69,11 +69,11 @@
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>23</td>
+        <td>24</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>272</td>
+        <td>277</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>3163 (rate -58)</td>
+        <td>4395 (rate -41)</td>
       </tr>
       <tr>
         <td>
@@ -100,14 +100,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>32 (rate 28)</td>
+        <td>36 (rate 44)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1530 (48%)<br />Forgotten Hall: 680 (21%)<br />Daily Activity:
-          360 (11%)<br />Adventure Rewards: 345 (10%)<br />Simulated Universe:
-          225 (7%)<br />Other: 3 (3%)<br />Mail: 20 (0%)<br />
+          Event: 1530 (34%)<br />Simulated Universe: 1105 (25%)<br />Adventure
+          Rewards: 690 (15%)<br />Forgotten Hall: 680 (15%)<br />Daily Activity:
+          360 (8%)<br />Other: 10 (3%)<br />Mail: 20 (0%)<br />
         </td>
       </tr>
     </table>
@@ -1701,7 +1701,7 @@
       <table>
         <tr>
           <th><h3>March 7th</h3></th>
-          <th><h3>Day One of My New Life</h3></th>
+          <th><h3></h3></th>
         </tr>
         <tr>
           <td>
@@ -1712,11 +1712,7 @@
             </p>
           </td>
           <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/c051ab11d78acef727fa20a380cd49d2.png"
-              />
-            </p>
+            <p align="center"><img src="" /></p>
           </td>
         </tr>
         <tr>
@@ -1791,15 +1787,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Day One of My New Life</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -2081,6 +2077,117 @@
               <tr>
                 <td>Level</td>
                 <td>1</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Gepard </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Gepard</h3></th>
+          <th><h3>Day One of My New Life</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7dbf78d71b30e855bfb3a36794bb7304.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/c051ab11d78acef727fa20a380cd49d2.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/760611395ea33ead3c7af716a9a5b198.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Forgiving Casque<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/85b88fd5138fb38d929c05b3cd05571d.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Silent Oath Ring<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/4a742c4f01e54435e0633d188f92af3b.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Solemn Breastplate<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5cc98bacad9991c89bb3daadffb6afd0.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Iron Boots of Order<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b93705dec5efb54f5ba7299c4c4067ce.png"
+                    ,
+                    height="18"
+                  />
+                  Belobog's Fortress of Preservation<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/893fa05bfb1b64d17a9d07cc727634c1.png"
+                    ,
+                    height="18"
+                  />
+                  Belobog's Iron Defense<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Day One of My New Life</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -2453,7 +2560,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_06_09_2023_13_22_36.png" />
+    <img src="images/profile/genshin_profile_06_09_2023_19_34_17.png" />
   </div>
   <div align="center">
     <h2>
@@ -8414,11 +8521,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_06_09_2023_13_22_10.png" />
+  <img src="images/showcase/genshin_card_06_09_2023_19_33_49.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_06_09_2023_13_22_11.png" />
+  <img src="images/showcase/genshin_card_06_09_2023_19_33_50.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
