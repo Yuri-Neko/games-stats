@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 06, 2023 08:12 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 06, 2023 13:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -65,7 +65,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>127</td>
+        <td>128</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>3098 (rate -58)</td>
+        <td>3163 (rate -58)</td>
       </tr>
       <tr>
         <td>
@@ -105,9 +105,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1530 (49%)<br />Forgotten Hall: 680 (21%)<br />Adventure
-          Rewards: 340 (10%)<br />Daily Activity: 300 (9%)<br />Simulated
-          Universe: 225 (7%)<br />Other: 3 (4%)<br />Mail: 20 (0%)<br />
+          Event: 1530 (48%)<br />Forgotten Hall: 680 (21%)<br />Daily Activity:
+          360 (11%)<br />Adventure Rewards: 345 (10%)<br />Simulated Universe:
+          225 (7%)<br />Other: 3 (3%)<br />Mail: 20 (0%)<br />
         </td>
       </tr>
     </table>
@@ -1096,11 +1096,11 @@
                     height="18"
                   />
                   Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/312a48ea1fa47f0845cfc243613d40e4.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b5f9c25f0b0e2b3b5c823b614bb0d1c7.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  Genius's Gravity Walker<br />
                 </td>
               </tr>
               <tr>
@@ -2453,7 +2453,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_06_09_2023_08_12_50.png" />
+    <img src="images/profile/genshin_profile_06_09_2023_13_22_36.png" />
   </div>
   <div align="center">
     <h2>
@@ -2834,16 +2834,6 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-            ,
-            height="18"
-          />
-          Xingqiu (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-            ,
-            height="18"
-          />
-          Yae Miko (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
@@ -2853,7 +2843,17 @@
             ,
             height="18"
           />
-          Hu Tao (12)<br />
+          Hu Tao (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br />
         </td>
       </tr>
       <tr>
@@ -8414,11 +8414,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_06_09_2023_08_12_23.png" />
+  <img src="images/showcase/genshin_card_06_09_2023_13_22_10.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_06_09_2023_08_12_24.png" />
+  <img src="images/showcase/genshin_card_06_09_2023_13_22_11.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
